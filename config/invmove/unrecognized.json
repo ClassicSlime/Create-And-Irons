@@ -1,0 +1,32 @@
+{
+  "allowMovement": {
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "com.github.alexmodguy.alexscaves.client.gui.book.CaveBookScreen": true,
+    "betteradvancements.common.gui.BetterAdvancementsScreen": true,
+    "com.gitlab.cdagaming.craftpresence.config.gui.MainGui": true,
+    "com.relimer.ironsrestrictions.gui.SchoolResearchScreen": true,
+    "io.redspace.ironsspellbooks.gui.inscription_table.InscriptionTableScreen": true,
+    "com.nms.nomorespellbooks.client.ui.CodexScreen": true,
+    "com.simibubi.create.content.schematics.table.SchematicTableScreen": true,
+    "com.simibubi.create.content.schematics.client.SchematicEditScreen": true,
+    "dev.simulated_team.simulated.content.entities.diagram.screen.DiagramScreen": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "net.minecraft.client.gui.screens.options.OptionsScreen": true,
+    "net.minecraft.client.gui.screens.options.controls.ControlsScreen": true,
+    "net.minecraft.client.gui.screens.options.controls.KeyBindsScreen": true,
+    "com.ypsi.fundamentalism.gui.PrinciplesScreen": true
+  },
+  "hideBackground": {
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "com.relimer.ironsrestrictions.gui.SchoolResearchScreen": true,
+    "io.redspace.ironsspellbooks.gui.inscription_table.InscriptionTableScreen": true,
+    "com.nms.nomorespellbooks.client.ui.CodexScreen": true,
+    "com.simibubi.create.content.schematics.table.SchematicTableScreen": true,
+    "com.simibubi.create.content.schematics.client.SchematicEditScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true
+  }
+}
