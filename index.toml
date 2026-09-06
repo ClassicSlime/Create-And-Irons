@@ -1395,7 +1395,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "a35c812005762698c71c87d55c26745ea4dd244c1ef5f2df19f0a78ae04c575d"
+hash = "df0b0f316ef6a5c3225f8ee00e53085b404b4388bcf8f118b0be1835d4daa271"
 metafile = true
 
 [[files]]
@@ -1425,7 +1425,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "bb2700ce31fc7cd121ecf07f106302303ee366b7573b77bbdd97eee955233cda"
+hash = "5f30c1c0363dd44c10db196a8d8a7f164ff06e06b0b80234a519d9e49b2a7f84"
 metafile = true
 
 [[files]]
@@ -1535,7 +1535,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "a4fc261260931f28bd822521ffa4082fb685cd79f1ae766d1407e9ca5be6a43e"
+hash = "8cb7ed61c9d40c9f60a3c7d360f7fba1e3902a75127a6377ce2f0733825982d0"
 metafile = true
 
 [[files]]
@@ -1580,7 +1580,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "7af4b5c86766bf4875929efa4ff725f02b0604881d867c897e4ed0ef1147bf97"
+hash = "03d98e379c196e3d4e14c2dab25c52f6713c73f8957f09f821baf0fa25aead4f"
 metafile = true
 
 [[files]]
@@ -1600,7 +1600,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "e4c5288d60baf4e426c459d278c714ab3de8acfabdf249cd276b3b412b4e720c"
+hash = "270252746b2ca4413d26e4550af0124ecaca5279d00af1625fde4ddfbed5d466"
 metafile = true
 
 [[files]]
@@ -1675,12 +1675,12 @@ metafile = true
 
 [[files]]
 file = "mods/dap-ur-homies.pw.toml"
-hash = "962bbc64d007019b3f30ad540fd505a19d918c469e04a91d325bc2d28eb02904"
+hash = "b5e6120481d36d54164f9aff1399c09ce610386cb39486c111875212d975dd90"
 metafile = true
 
 [[files]]
 file = "mods/dark-doppelganger.pw.toml"
-hash = "3c75c4efb1209e34179d2c90b7d6a8c1f298826cdc9a992463efaa43cfa91438"
+hash = "cdcdb546334f39cf14aac0f872ba2d590218e124622d1b6ec5b7d3aae936e60c"
 metafile = true
 
 [[files]]
@@ -1790,7 +1790,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-structures.pw.toml"
-hash = "0858ad32988a26d755ae88ad4670471e4e51ebbbd88584adfa60b3c02bc76f61"
+hash = "03002470c114fce6b14ebd12ac4a36d17d413f0ec2a2fb767486689b173998a3"
 metafile = true
 
 [[files]]
@@ -1805,7 +1805,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "de12d66aca2d481ce0ffe4d47d37afb5ecb0c5444ffe7dc86a79dc9ce159dc92"
+hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
 
 [[files]]
@@ -1855,7 +1855,7 @@ metafile = true
 
 [[files]]
 file = "mods/goblin-traders.pw.toml"
-hash = "ef6367468d1b93c3024b40b1b927243d23f6ae6b38665d576c57dbfdda2049cc"
+hash = "29abe36be13fe414e13125140f1c4fe373f7daf79a11ba511e0f77a47ea7f946"
 metafile = true
 
 [[files]]
@@ -1870,7 +1870,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceandfire-ce.pw.toml"
-hash = "d96389e12a265e121d265e9b0516eba4dc3487c9d541c97ed57dfa4ec7b2e6ef"
+hash = "859e2207be23c7c7a45884b4b3a013a55c0280db50ca32b92bc654688447c5ea"
 metafile = true
 
 [[files]]
@@ -1915,7 +1915,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
+hash = "bc0ed43619af3b5e453ccb36412d72aef8d066594946a927155d2fbd440e4b40"
 metafile = true
 
 [[files]]
@@ -1990,12 +1990,12 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "9897d053032dcfb345567234dd6fb57debb7a52dbe08c06c9bbaef12cdf2e0f2"
+hash = "85b032d6fc2208b2ff0c3a247328ea9a89bace96a7cfca30757b566955406ed3"
 metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
-hash = "e03373fa642d840e4c7d2678d25b103e4000bc607333ec57edabac7f05e803a4"
+hash = "9b4da9032ff58228faa07d6c68072d0873ac2a321aa374c5578bd6813c95e052"
 metafile = true
 
 [[files]]
@@ -2275,17 +2275,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c4ebb45eb6e49b9e6a1dfcbae4f7b67da70088f7e672a70d1fff2308d72ff9bc"
+hash = "36fe43b253614ca6396e85698d0760f1a586e551a85fbc42f206144d41216019"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "617ec6e9893d59905035a510fe336addd46a97b6fd28fad88b70713ebf8e69e3"
+hash = "3fc6fd4a464740bd6cfe89571517cfda837dbad69f0218ef1159b527b1be45d6"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "1467f027941a2af41e7ad3acbeb9569729c32578ab49073770ee7ab231394e97"
+hash = "650e3adc7fc139dfefa0fcbfacaccb9399fda1a77cf85b6732c157f51ca11bab"
 metafile = true
 
 [[files]]
@@ -2315,7 +2315,7 @@ metafile = true
 
 [[files]]
 file = "mods/strut-your-stuff.pw.toml"
-hash = "9b3918803de451245463401c572fbb58c7bbf176e8d6e0e0381c61dbe4a502bb"
+hash = "be50160d9d37a186eaf955f39f22a4e1a3d76fb4e61c63aaca25fd5ab2124f9e"
 metafile = true
 
 [[files]]
@@ -2365,7 +2365,7 @@ metafile = true
 
 [[files]]
 file = "mods/uranus.pw.toml"
-hash = "871c2c9e058c001c3eae91d7f6329fae068d284defb758a7c9552a919ee78f21"
+hash = "ba468b0e9e8ff229fdbaa7fc1efc6f43236cdafe7570b0ba2b51874ddbc1880b"
 metafile = true
 
 [[files]]
@@ -2410,7 +2410,7 @@ metafile = true
 
 [[files]]
 file = "mods/winds-spellbooks-irons-spells-n-spellbooks-addon.pw.toml"
-hash = "e8dc00a3abda27be6bcc93d11e62fe43544a02032ac07c2ff69351ce41fcfc30"
+hash = "c178c7a026ce8b9a28aee106e4a2662c76f5bbdd900b8b9b0476dafd2782c463"
 metafile = true
 
 [[files]]
