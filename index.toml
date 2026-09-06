@@ -1534,11 +1534,6 @@ hash = "b3de57718d132437264c51deea210fab32271bceb1669f45f7fdabcf25be9579"
 metafile = true
 
 [[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "8cb7ed61c9d40c9f60a3c7d360f7fba1e3902a75127a6377ce2f0733825982d0"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics-compatability.pw.toml"
 hash = "889d2c573f46e94318761c1e26d84e3c0520425cf12187f4b97ad3d51fd26363"
 metafile = true
