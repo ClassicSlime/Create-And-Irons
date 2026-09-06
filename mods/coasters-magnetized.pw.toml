@@ -3,11 +3,11 @@ filename = "coastersmagnetized-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "26332fc0110181036d58b4135fd1cf431d842cb0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/9sljYUsa/versions/jVuUgvkG/coastersmagnetized-1.1.0.jar"
+hash-format = "sha512"
+hash = "45ed85dcbda1e0b0eae7603f71799343983ce0e1791345df50268e792bcd60dc8e1904327d4782fba7b3939346dc618ae4f71e8678f9592f60bd741b4f2480f0"
 
 [update]
-[update.curseforge]
-file-id = 8668703
-project-id = 1642979
+[update.modrinth]
+mod-id = "9sljYUsa"
+version = "jVuUgvkG"

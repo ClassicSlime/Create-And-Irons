@@ -1,6 +1,0 @@
-#Which Spell Codex UI to show.
-#0 = default (Tensura style)
-#1 = Minecraft style (book)
-# Default: 0
-# Range: 0 ~ 1
-uiStyle = 0

@@ -1,5 +1,0 @@
-#Consume one scroll when learning a spell through the UI.
-consumeScrollOnLearn = true
-#Refund scroll-crafting ink when a spell is unlearned.
-#The ink tier is the spell's rarity at half the level it was learned at.
-refundInkOnUnlearn = true
