@@ -1399,11 +1399,6 @@ hash = "4d324d3e21ea2335abe52fcd6608759abf6a723c4c764db7db61c49c6c2a9fe9"
 metafile = true
 
 [[files]]
-file = "mods/ash-api.pw.toml"
-hash = "9369292bea18bb65ba56285a1da5929527b76deb11347ad062b9d82ac1a3b7e0"
-metafile = true
-
-[[files]]
 file = "mods/asterism-arcanum.pw.toml"
 hash = "74b66d73010ceedda283eb32401aa9151b04ac5832077b386e482c3871580388"
 metafile = true
@@ -2296,11 +2291,6 @@ metafile = true
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
-metafile = true
-
-[[files]]
-file = "mods/shuffle.pw.toml"
-hash = "85c29d10ee7b8456973d1eb3713bf75cdc181f7e39e98f7b7eb5ddde6da378a7"
 metafile = true
 
 [[files]]
