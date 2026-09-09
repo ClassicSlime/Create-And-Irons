@@ -1399,6 +1399,11 @@ hash = "4d324d3e21ea2335abe52fcd6608759abf6a723c4c764db7db61c49c6c2a9fe9"
 metafile = true
 
 [[files]]
+file = "mods/ash-api.pw.toml"
+hash = "9369292bea18bb65ba56285a1da5929527b76deb11347ad062b9d82ac1a3b7e0"
+metafile = true
+
+[[files]]
 file = "mods/asterism-arcanum.pw.toml"
 hash = "74b66d73010ceedda283eb32401aa9151b04ac5832077b386e482c3871580388"
 metafile = true
@@ -1525,7 +1530,7 @@ metafile = true
 
 [[files]]
 file = "mods/cool-rain-reforged.pw.toml"
-hash = "5a46cbcb6b8aa31aeb63f7e32848000d8897bf36acb033632f9caefd34de3f28"
+hash = "088db35b655435072339181305f1f401f0d20c7a1f8501691568d85bc8cb1c1a"
 metafile = true
 
 [[files]]
@@ -1889,6 +1894,11 @@ hash = "d67e618750cb3dcd9c1c52702f52ffb8b8723cfd3ece7c75ad333ac9b1720932"
 metafile = true
 
 [[files]]
+file = "mods/hyperbox.pw.toml"
+hash = "81b625eb40b9f6c968a550573d52e41457f4829e99c5f30c6a367a65602ef7c8"
+metafile = true
+
+[[files]]
 file = "mods/iceandfire-ce.pw.toml"
 hash = "859e2207be23c7c7a45884b4b3a013a55c0280db50ca32b92bc654688447c5ea"
 metafile = true
@@ -2239,6 +2249,11 @@ hash = "0be0eb155428ec345bc5bdc9696da555de1aecf3f9f9a392cf5fa78588c0e1a9"
 metafile = true
 
 [[files]]
+file = "mods/sable-cool-rain.pw.toml"
+hash = "0e4597c39bed0e1462753f7381e6a38cfc0642d755736225d63c136c40823ee5"
+metafile = true
+
+[[files]]
 file = "mods/sable-ragdoll-corpse.pw.toml"
 hash = "e48a9f24f9c0e937b4aa46bcfec7e8ceaa40a4f29f4ea1c659c6d28575560320"
 metafile = true
@@ -2250,7 +2265,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
+hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
 metafile = true
 
 [[files]]
@@ -2281,6 +2296,11 @@ metafile = true
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
+metafile = true
+
+[[files]]
+file = "mods/shuffle.pw.toml"
+hash = "85c29d10ee7b8456973d1eb3713bf75cdc181f7e39e98f7b7eb5ddde6da378a7"
 metafile = true
 
 [[files]]
