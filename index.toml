@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "cc-power-grid.pw.toml"
+hash = "d0481585ede7b5d7c7113630635c3aae22ead046952e43e648370ef1607b7fd5"
+metafile = true
+
+[[files]]
 file = "config/Veinminer/blocks.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
@@ -1360,7 +1365,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
-hash = "2a927b4361d09500f17075c2bd01e3b0c031bae9cd04c04472648ce3a621191f"
+hash = "09ec8e19c11692a9770765b35ea1bae53b55c428380a61ded9e751209257a583"
 metafile = true
 
 [[files]]
@@ -1441,6 +1446,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "932b1f0df544525e277b4f75fc47dc9c01d0481d773f026082f1cae5c4afdb69"
 metafile = true
 
 [[files]]
@@ -1655,12 +1665,17 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "83ea88c8687aebdc1b1f09ce6da7241a3d2119574301f597982756d04e6c9e1d"
+metafile = true
+
+[[files]]
+file = "mods/creature-feature.pw.toml"
+hash = "f29f697c97846d29fb92fecb7a4caf3f31c858fb3ec9d9a85d59e3cf147a62ad"
 metafile = true
 
 [[files]]
@@ -2166,6 +2181,11 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "1275874983625c82082f1b708e1af166cb07f856cda0065ff85d0d5b80c628ce"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "d8a997c508417eff07068e7ee5e5e501a6ae6e44fb4592829d077fe4a3b73ec3"
 metafile = true
 
 [[files]]
