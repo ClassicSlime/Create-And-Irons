@@ -1,6 +1,6 @@
 name = "Incendium"
 filename = "Incendium_1.21.x_v5.4.4.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

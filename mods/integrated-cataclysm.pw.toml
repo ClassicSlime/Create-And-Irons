@@ -1,6 +1,6 @@
 name = "Integrated Cataclysm"
 filename = "integrated_cataclysm-1.0.6+1.21.1-neoforge.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
