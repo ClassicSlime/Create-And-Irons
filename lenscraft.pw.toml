@@ -1,0 +1,13 @@
+name = "Lenscraft"
+filename = "Lenscraft-0.4.0-dev.18.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c87cdd7770755a3c9e7a7b824a418c32ddfbe05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8754002
+project-id = 1671869
