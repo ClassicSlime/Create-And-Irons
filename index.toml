@@ -3166,11 +3166,6 @@ hash = "d0b7fb4e97a80ba22a54420ba2bdd19c646732c1762ff0aa9304ba9332e79173"
 metafile = true
 
 [[files]]
-file = "mods/spawn-mod.pw.toml"
-hash = "4f8d90c47cf36ada9b9aef3c594ee5c05860887c73e6b94f699829b0619cc068"
-metafile = true
-
-[[files]]
 file = "mods/spells-gone-wrong.pw.toml"
 hash = "8d303c0c2929956f989d082c18cf3b385b43bc869ecb03b20ae8fe23d3624f48"
 metafile = true
@@ -3208,11 +3203,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "4607fa2308f2491b370542a0b5532b5f04b64adc177b62c8e2080d1486a72086"
-metafile = true
-
-[[files]]
-file = "mods/teallib.pw.toml"
-hash = "cf405df734343bd1443c78bba8f2982369f77afcc5cb8223158d086c516dc6db"
 metafile = true
 
 [[files]]
