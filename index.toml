@@ -1339,6 +1339,11 @@ hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
 
 [[files]]
+file = "mods/aaa-particles.pw.toml"
+hash = "c560fdb763127951e022fddd58c744a0cc04425d6f9b72c8ea44b061eaaeabda"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
 metafile = true
@@ -1391,6 +1396,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
+metafile = true
+
+[[files]]
+file = "mods/archaion.pw.toml"
+hash = "87701d511547ca7c84139a3745b7889787782405c7b390f2f6e52206aa9cf499"
 metafile = true
 
 [[files]]
