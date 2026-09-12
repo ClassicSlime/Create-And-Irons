@@ -1599,7 +1599,7 @@ hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "cda1de84880f439d9c8a025861a483d51972e76b8a5a6a253dd0196aec821ac5"
+hash = "eca04af0618e1250721e19aa8a8ce9519aee85cad617f1af04bb1afaabb6244c"
 
 [[files]]
 file = "config/modmenu.json"
@@ -2481,11 +2481,6 @@ hash = "f9e6dd1d85322833d9d3440446e569340ef52e23a5ce2149ddedec1c49b24efc"
 metafile = true
 
 [[files]]
-file = "mods/enderscape.pw.toml"
-hash = "dd1d97bf0dbd163301b1c6677f36777c8684c58434b91b375ee0ef9fa7cc044a"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-ai.pw.toml"
 hash = "bb6aa42e68f37c82fcf1c51c1782d4fbdb8623ab16b0903b2fffa4ee51f39e95"
 metafile = true
@@ -2793,6 +2788,16 @@ metafile = true
 [[files]]
 file = "mods/nirvana.pw.toml"
 hash = "600cb587148cd482a82ab297b14e90313483c617587c9cbbd04b435a2c28e858"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "10e2d5565e299d0fafa79e7c949961bf692d9a15b5de146b2905ea7df0987d29"
 metafile = true
 
 [[files]]
