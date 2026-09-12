@@ -2466,6 +2466,11 @@ hash = "dd1d97bf0dbd163301b1c6677f36777c8684c58434b91b375ee0ef9fa7cc044a"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-ai.pw.toml"
+hash = "bb6aa42e68f37c82fcf1c51c1782d4fbdb8623ab16b0903b2fffa4ee51f39e95"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "25e47edf191860df8ec490ec7b4828aa2edc78b7509e8996848593f7cca699d4"
 metafile = true
