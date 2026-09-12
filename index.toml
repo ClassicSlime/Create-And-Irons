@@ -2221,11 +2221,6 @@ hash = "00260e7ff04354e9ad029c6deae37ca233738df5ebc290f843fb68cd1b7d7bfe"
 metafile = true
 
 [[files]]
-file = "mods/chunky-pregenerator-forge.pw.toml"
-hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
-metafile = true
-
-[[files]]
 file = "mods/citadel-1-21-1-port.pw.toml"
 hash = "3a0f7208a7863c154b7dbc6418c4686a7e5956444d6f9b05d9a33b0393cbafef"
 metafile = true
@@ -2751,11 +2746,6 @@ hash = "600cb587148cd482a82ab297b14e90313483c617587c9cbbd04b435a2c28e858"
 metafile = true
 
 [[files]]
-file = "mods/nukateams-gun-lib.pw.toml"
-hash = "8b4af86dc4c1846469326cc3fe73350a98a119650be241e499c6bd575c2e2482"
-metafile = true
-
-[[files]]
 file = "mods/observable.pw.toml"
 hash = "3e477c97729015ac6184c0b56cb148947b7c0dc5cca764336ee96719f05f05e6"
 metafile = true
@@ -2811,13 +2801,8 @@ hash = "cf4f9fdb9d7cf582d1068fae6ca9bf7fe6d3f0f1dbb031627f339f73477d325c"
 metafile = true
 
 [[files]]
-file = "mods/player-animation-library.pw.toml"
-hash = "b58d160c5d2f7405e8e334f574c79138dcfcf80144d6e2b591d2c4748118553d"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+hash = "2b0bc5ca91f1227bf80f7c506617d359c026db373218d9afcb8073670d97de7a"
 metafile = true
 
 [[files]]
