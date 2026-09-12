@@ -2331,6 +2331,11 @@ hash = "32c8ab92ba0a7d1c45b8d11c3cd14a22cb0af15dfd9827ab15ee8a8c3ea0c079"
 metafile = true
 
 [[files]]
+file = "mods/create-aerowarptics.pw.toml"
+hash = "50ababb234a5a13cc34d899ef8c08baeff4d04d66568b676c5ba77e8c2e38550"
+metafile = true
+
+[[files]]
 file = "mods/create-better-fps.pw.toml"
 hash = "13481b387ddbf461b1da0ff317df17beafeda05291a586ee717bac23c86a0e74"
 metafile = true
@@ -2422,7 +2427,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
