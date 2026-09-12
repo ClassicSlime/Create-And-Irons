@@ -2442,7 +2442,7 @@ metafile = true
 
 [[files]]
 file = "mods/dap-ur-homies.pw.toml"
-hash = "19ff928a1c92265070c2795f21f5d6ee91c8a25beb9e9fe220cee5479317ba5d"
+hash = "b5e6120481d36d54164f9aff1399c09ce610386cb39486c111875212d975dd90"
 metafile = true
 
 [[files]]
@@ -2877,7 +2877,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "b58d160c5d2f7405e8e334f574c79138dcfcf80144d6e2b591d2c4748118553d"
+hash = "a4a670f4b467518d39b9d1bc340d4c0592d1319f43adb821c0ebe96bd5f1ade7"
 metafile = true
 
 [[files]]
