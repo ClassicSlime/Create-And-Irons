@@ -2216,6 +2216,11 @@ hash = "7b2d0b6a57fde98ff0748a7bbdf38bd29eb54c3fb05576de7ba953b886e23285"
 metafile = true
 
 [[files]]
+file = "mods/chunksmith.pw.toml"
+hash = "00260e7ff04354e9ad029c6deae37ca233738df5ebc290f843fb68cd1b7d7bfe"
+metafile = true
+
+[[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
 metafile = true
