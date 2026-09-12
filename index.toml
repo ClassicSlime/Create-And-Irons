@@ -2336,11 +2336,6 @@ hash = "e4af97e9813f177f5dc7c335603a819e6fcc824b7b47f10a490733a31b99a7d0"
 metafile = true
 
 [[files]]
-file = "mods/create-bits-n-tracks.pw.toml"
-hash = "9f32c91047792e2da7d83cd7c9ac6362e0563d2421df279f7fb639c9d770931c"
-metafile = true
-
-[[files]]
 file = "mods/create-coasters-simulated.pw.toml"
 hash = "d5aad6415413aa777ed89ae55912f33c86757321c7c16c8392ce2e1429b920d5"
 metafile = true
@@ -2398,11 +2393,6 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "0c54dcc8b75965f7d0faf9b7f9b833ef0e7a214a56c740d1ee7baff4467d0819"
-metafile = true
-
-[[files]]
-file = "mods/create-tracks.pw.toml"
-hash = "c79dfdac7e2df5cc4026e6ead964d698b609a374701cd012a344a5735f40d4f5"
 metafile = true
 
 [[files]]
@@ -3158,11 +3148,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "6c8d728f2e4c1e92b3f84219df52c173ee2f54b57dfe33270679e26af9b89afb"
-metafile = true
-
-[[files]]
-file = "mods/threateninglly-mobs-continued.pw.toml"
-hash = "4af401e118b811083aeff28a9c89a1c5a2b3659f16e3440ad1bf0d5a1e6afd09"
 metafile = true
 
 [[files]]
