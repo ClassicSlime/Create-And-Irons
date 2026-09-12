@@ -2531,11 +2531,6 @@ hash = "dd1d97bf0dbd163301b1c6677f36777c8684c58434b91b375ee0ef9fa7cc044a"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-ai.pw.toml"
-hash = "bb6aa42e68f37c82fcf1c51c1782d4fbdb8623ab16b0903b2fffa4ee51f39e95"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "25e47edf191860df8ec490ec7b4828aa2edc78b7509e8996848593f7cca699d4"
 metafile = true
@@ -2796,11 +2791,6 @@ hash = "039336d7458d57f9eed8e8ce7ed8efd7d27f6801b0deffe8102e7883034eabfc"
 metafile = true
 
 [[files]]
-file = "mods/more-babies.pw.toml"
-hash = "1505f6e142479a9dad528627269e84bb9c9ef993b4dc8d2cb8f4c95c2c5e8910"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "7b3dcdeb0cda62f184768f808e3e207cd837cad0c40aef786d3f26e87035cce3"
 metafile = true
@@ -2843,11 +2833,6 @@ metafile = true
 [[files]]
 file = "mods/nukateams-gun-lib.pw.toml"
 hash = "8b4af86dc4c1846469326cc3fe73350a98a119650be241e499c6bd575c2e2482"
-metafile = true
-
-[[files]]
-file = "mods/nyfs-spiders.pw.toml"
-hash = "90ad1eb32c492fd76dc362f8b017e8ca848fee063cafb3ccac30d32f09cbdbaa"
 metafile = true
 
 [[files]]
