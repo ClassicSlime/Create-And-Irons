@@ -2806,6 +2806,11 @@ hash = "cf4f9fdb9d7cf582d1068fae6ca9bf7fe6d3f0f1dbb031627f339f73477d325c"
 metafile = true
 
 [[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "b58d160c5d2f7405e8e334f574c79138dcfcf80144d6e2b591d2c4748118553d"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "2b0bc5ca91f1227bf80f7c506617d359c026db373218d9afcb8073670d97de7a"
 metafile = true
