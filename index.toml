@@ -2576,6 +2576,11 @@ hash = "03002470c114fce6b14ebd12ac4a36d17d413f0ec2a2fb767486689b173998a3"
 metafile = true
 
 [[files]]
+file = "mods/fdlib.pw.toml"
+hash = "a85ef8504d5bd6fca464cfa59df51af343a5194f5b71ed127197751280d904a6"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
@@ -2948,6 +2953,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "391e5d415c0754ad210b8efa54fc9ded4f99e6ab8562d6faf960f3b65d84a66a"
+metafile = true
+
+[[files]]
+file = "mods/qliphoth-awakening.pw.toml"
+hash = "4cd1d9e77c976dff1acfe1d5b457d9cbb510f9e4d725da0c2eb56c75a7216fa4"
 metafile = true
 
 [[files]]
