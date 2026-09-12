@@ -2096,6 +2096,11 @@ hash = "039ecee245a68300feddca1ea7c7c98de9420cde01fbf32d9e01a1ff79e6c80f"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs(1.21.1).pw.toml"
+hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "41b2b3447cc807fa54699d5830f5da766cf29a0c91b3a3ea0156e92f22e9cd44"
 metafile = true
@@ -2218,6 +2223,16 @@ metafile = true
 [[files]]
 file = "mods/chunksmith.pw.toml"
 hash = "00260e7ff04354e9ad029c6deae37ca233738df5ebc290f843fb68cd1b7d7bfe"
+metafile = true
+
+[[files]]
+file = "mods/cinematic-cataclysm.pw.toml"
+hash = "45c8140947789e456b351bd6faffb4eda2385f3ddfae755f5ca25687ab36ec93"
+metafile = true
+
+[[files]]
+file = "mods/citadel-(1.21.1-port).pw.toml"
+hash = "80d7af83c244304212b8d95ab2e3525b3eeae02f31e41474c2cdec2f4d370723"
 metafile = true
 
 [[files]]
@@ -2387,7 +2402,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -2497,7 +2512,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "d9ed9ac8e0db9db29078dafa22bc2d86ac702f10863ae7cb1d5245111c5ea17b"
+hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
 
 [[files]]
@@ -2651,6 +2666,16 @@ hash = "0cbd81506c112ea06d2f1ba92e65fab74b025637f1974387918cc260306077f8"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm-delight.pw.toml"
+hash = "637e5b445b28d460884ce868948328ef512eb10ab2af60a86bd3e2c37ac49697"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "0a509504c937a398ccabc71d56029690d43806378c7121928776407083c669ef"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a18e3ccdf71e346bcd5f772c235ad9244aec9dfc128402486e91bffc807832a9"
 metafile = true
@@ -2662,7 +2687,7 @@ metafile = true
 
 [[files]]
 file = "mods/lionfish-api.pw.toml"
-hash = "c27c2b642deba3609c6e5741ee6360cb8d760e5bf5b2595fd4fa01c01dc5f074"
+hash = "64acab1580ca6edd8b1dd185e914aeee7aa551a88a7cd7f0f9370a82aaadfef6"
 metafile = true
 
 [[files]]
@@ -2936,6 +2961,11 @@ hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
 metafile = true
 
 [[files]]
+file = "mods/scorched-guns-neoforged.pw.toml"
+hash = "675a8eff04ce8c50e7d1c23e319852f22089c4a381cf634ee9720e58c1371485"
+metafile = true
+
+[[files]]
 file = "mods/sdm-ui-lib.pw.toml"
 hash = "e8ec6aa38ed7e5cc5f03ffa9d6d91616737375a827c9fe21742d028a8cdd8fe5"
 metafile = true
@@ -3158,4 +3188,9 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cataclysm-reimagined.pw.toml"
+hash = "c3b9ace85224f7ded0488aaa1a36c61d11be03568d651ec1ccadad5a739dc381"
 metafile = true
