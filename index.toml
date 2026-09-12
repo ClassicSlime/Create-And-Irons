@@ -3116,6 +3116,11 @@ hash = "d0b7fb4e97a80ba22a54420ba2bdd19c646732c1762ff0aa9304ba9332e79173"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/spells-gone-wrong.pw.toml"
 hash = "8d303c0c2929956f989d082c18cf3b385b43bc869ecb03b20ae8fe23d3624f48"
 metafile = true
