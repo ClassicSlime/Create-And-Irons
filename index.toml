@@ -2152,7 +2152,7 @@ metafile = true
 
 [[files]]
 file = "mods/azimuth-api.pw.toml"
-hash = "f0c22820883bd2a7325b8bcba4784f0ee4db33ad7844a802b0f844cdc73b4dd2"
+hash = "382d7eb9e95beb4224fdb16e6781604c0f12d49ba3b900b323b1cb0ffabec13a"
 metafile = true
 
 [[files]]
@@ -2332,7 +2332,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "03d98e379c196e3d4e14c2dab25c52f6713c73f8957f09f821baf0fa25aead4f"
+hash = "e4af97e9813f177f5dc7c335603a819e6fcc824b7b47f10a490733a31b99a7d0"
 metafile = true
 
 [[files]]
@@ -3127,7 +3127,7 @@ metafile = true
 
 [[files]]
 file = "mods/strut-your-stuff.pw.toml"
-hash = "be50160d9d37a186eaf955f39f22a4e1a3d76fb4e61c63aaca25fd5ab2124f9e"
+hash = "aa89e067824ca42d818a81a6d02ce5296ce662d834c35dd2ff0d81189d3bc3f9"
 metafile = true
 
 [[files]]
