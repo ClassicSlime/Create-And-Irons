@@ -2456,11 +2456,6 @@ hash = "b5e6120481d36d54164f9aff1399c09ce610386cb39486c111875212d975dd90"
 metafile = true
 
 [[files]]
-file = "mods/dark-doppelganger.pw.toml"
-hash = "cdcdb546334f39cf14aac0f872ba2d590218e124622d1b6ec5b7d3aae936e60c"
-metafile = true
-
-[[files]]
 file = "mods/deeper-and-darker-spellbooks.pw.toml"
 hash = "3dc695414564641b6b7ca4d69eab67eb0b589da25ceb62ccfbe2cee70302d6d3"
 metafile = true
