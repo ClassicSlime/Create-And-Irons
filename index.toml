@@ -2081,8 +2081,13 @@ hash = "eedd5d5664cc71eeabc14145564a6012f0bbbca31581ff23c09e226217102f8b"
 metafile = true
 
 [[files]]
+file = "mods/aaa-particles-world.pw.toml"
+hash = "0f212e8bc2e672c53fcb8ea7f1ed0a10aaef31f53a1306f0c193219c0be9f7cf"
+metafile = true
+
+[[files]]
 file = "mods/aaa-particles.pw.toml"
-hash = "c560fdb763127951e022fddd58c744a0cc04425d6f9b72c8ea44b061eaaeabda"
+hash = "9a81f91e288bfa2cb0cdaebe775fe0aed2348ea3b18564ec2b45658ec0abd412"
 metafile = true
 
 [[files]]
@@ -2147,7 +2152,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]

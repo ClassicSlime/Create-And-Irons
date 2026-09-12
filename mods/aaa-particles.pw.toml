@@ -3,11 +3,11 @@ filename = "aaa_particles-neoforge-1.21.1-2.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "05c06223740c63c19b63aaa555573547c998b8cc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/En8uHTOK/versions/ePi58Pcx/aaa_particles-neoforge-1.21.1-2.2.3.jar"
+hash-format = "sha512"
+hash = "48324b0cdc4b8e102590db1b532abc40346f3c4366b394480be592eee2ec1233faa7bf50a67971dea8246363f53b929c6d104c2bc9a931949fe7e2d221089372"
 
 [update]
-[update.curseforge]
-file-id = 8402817
-project-id = 979809
+[update.modrinth]
+mod-id = "En8uHTOK"
+version = "ePi58Pcx"
