@@ -2901,11 +2901,6 @@ hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
-file = "mods/point-blank-aeronautics-compat.pw.toml"
-hash = "b6a6f8449da5972c8734b5655afc808e9560921dc1d59982c1398455bf19dc53"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
 metafile = true
