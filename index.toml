@@ -2511,6 +2511,11 @@ hash = "567cbaa3eec8151eed80d01a72a898e15d02a93a13c5b5362b592e5ed8434675"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement-reforged.pw.toml"
+hash = "e6705ba58ef6960958ac7f175d8c5834d3b7a13f17837c5eea6b549185bc13cd"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
