@@ -2476,11 +2476,6 @@ hash = "f9e6dd1d85322833d9d3440446e569340ef52e23a5ce2149ddedec1c49b24efc"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-ai.pw.toml"
-hash = "bb6aa42e68f37c82fcf1c51c1782d4fbdb8623ab16b0903b2fffa4ee51f39e95"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "25e47edf191860df8ec490ec7b4828aa2edc78b7509e8996848593f7cca699d4"
 metafile = true
@@ -2593,11 +2588,6 @@ metafile = true
 [[files]]
 file = "mods/hyperbox.pw.toml"
 hash = "81b625eb40b9f6c968a550573d52e41457f4829e99c5f30c6a367a65602ef7c8"
-metafile = true
-
-[[files]]
-file = "mods/idas.pw.toml"
-hash = "b13158a1f8daea08344c22f072a708fd658a958e06a24560e5a3016e69c16375"
 metafile = true
 
 [[files]]
