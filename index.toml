@@ -2096,11 +2096,6 @@ hash = "039ecee245a68300feddca1ea7c7c98de9420cde01fbf32d9e01a1ff79e6c80f"
 metafile = true
 
 [[files]]
-file = "mods/alexs-mobs(1.21.1).pw.toml"
-hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "41b2b3447cc807fa54699d5830f5da766cf29a0c91b3a3ea0156e92f22e9cd44"
 metafile = true
