@@ -2857,7 +2857,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "2b0bc5ca91f1227bf80f7c506617d359c026db373218d9afcb8073670d97de7a"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
@@ -2983,11 +2983,6 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
-metafile = true
-
-[[files]]
-file = "mods/scorched-guns-neoforged.pw.toml"
-hash = "675a8eff04ce8c50e7d1c23e319852f22089c4a381cf634ee9720e58c1371485"
 metafile = true
 
 [[files]]
