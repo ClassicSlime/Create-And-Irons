@@ -14,7 +14,7 @@
       {
         "type": "BIOME_TAG",
         "negate": false,
-        "value": "c:is_coniferous"
+        "value": "c:is_tree/coniferous"
       }
     ],
     [

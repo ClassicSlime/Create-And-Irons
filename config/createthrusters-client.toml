@@ -12,6 +12,8 @@
 	enableMannequinPoserGui = true
 	#Use the StrawStatues/Statue Menus armor stand GUI for armor stands and player mannequins when StrawStatues is installed. StrawStatues entities always keep their own GUI.
 	preferStrawStatuesPoserGui = true
+	#Use the V2 node graph interface for Advanced Contraption Controllers
+	advancedControllerV2Ui = true
 	#Maximum local volume multiplier for thruster sounds (0 disables local thruster audio)
 	# Default: 1.0
 	# Range: 0.0 ~ 2.0

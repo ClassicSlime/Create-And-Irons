@@ -9,7 +9,7 @@
       {
         "type": "BIOME_TAG",
         "negate": true,
-        "value": "c:is_dense_overworld"
+        "value": "c:is_dense_vegetation/overworld"
       }
     ],
     [
@@ -38,6 +38,13 @@
         "type": "REGISTRY_NAME",
         "negate": false,
         "value": "biomesoplenty:tropics"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:bamboo_jungle"
       }
     ]
   ]

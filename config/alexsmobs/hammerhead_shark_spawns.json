@@ -9,7 +9,7 @@
       {
         "type": "BIOME_TAG",
         "negate": false,
-        "value": "c:is_hot_overworld"
+        "value": "c:is_hot/overworld"
       }
     ]
   ]

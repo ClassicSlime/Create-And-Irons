@@ -1,4 +1,4 @@
-jm[ammo9mm]
+[ammo9mm]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.

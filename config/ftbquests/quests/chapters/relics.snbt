@@ -34,35 +34,10 @@
 					id: "3584DEBA2534BEE1"
 					item: {
 						components: {
-							"relics:data": {
-								abilities: {
-									abilities: {
-										dispersion: {
-											lock: {
-												breaks: 5
-											}
-											points: 0
-											stats: {
-												distribution_ratio: {
-													initialQuality: 4
-												}
-												player_xp_ratio: {
-													initialQuality: 1
-												}
-												same_item_bonus: {
-													initialQuality: 3
-												}
-											}
-										}
-									}
-									synergies: { }
-								}
-								leveling: { }
-								statistic: { }
-							}
+							"ftbquests:missing_item": "relics:experience_disperser"
 						}
 						count: 1
-						id: "relics:experience_disperser"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -86,8 +61,11 @@
 					count: 10
 					id: "58922C75496BC851"
 					item: {
+						components: {
+							"ftbquests:missing_item": "relics:relic_experience_bottle"
+						}
 						count: 1
-						id: "relics:relic_experience_bottle"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -95,8 +73,11 @@
 					count: 10
 					id: "1B597F71FEE2546F"
 					item: {
+						components: {
+							"ftbquests:missing_item": "ars_nouveau:mirrorweave"
+						}
 						count: 1
-						id: "ars_nouveau:mirrorweave"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -104,7 +85,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "71E030C34CAAE9B6"
-				item: { components: { "relics:data": { abilities: { abilities: { sacrifice: { lock: { breaks: 5 }, points: 0, stats: { resistance: { initialQuality: 5 }, stacks: { initialQuality: 5 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:sphere_of_self_sacrifice" }
+				item: { components: { "ftbquests:missing_item": "relics:sphere_of_self_sacrifice" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -118,8 +99,11 @@
 					count: 10
 					id: "10F734C01A12D709"
 					item: {
+						components: {
+							"ftbquests:missing_item": "relics:relic_experience_bottle"
+						}
 						count: 1
-						id: "relics:relic_experience_bottle"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -136,7 +120,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "0CFCC6207B0EB70F"
-				item: { components: { "relics:data": { abilities: { abilities: { barter: { lock: { breaks: 5 }, points: 0, stats: { items_count: { initialQuality: 9 }, trades: { initialQuality: 3 } } }, looting: { lock: { breaks: 0 }, points: 0, stats: { attack_damage: { initialQuality: 7 }, attack_speed: { initialQuality: 8 }, chance: { initialQuality: 8 }, duration: { initialQuality: 5 }, health: { initialQuality: 9 } } }, neutrality: { lock: { breaks: 5 }, points: 0, stats: { } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:piglin_mask" }
+				item: { components: { "ftbquests:missing_item": "relics:piglin_mask" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -3.0d
@@ -149,15 +133,18 @@
 				count: 10
 				id: "7D766994223B328E"
 				item: {
+					components: {
+						"ftbquests:missing_item": "relics:relic_experience_bottle"
+					}
 					count: 1
-					id: "relics:relic_experience_bottle"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "0A935B1F1BAB379E"
-				item: { components: { "relics:data": { abilities: { abilities: { skating: { lock: { breaks: 5 }, points: 0, stats: { damage: { }, ignite: { }, resistance: { initialQuality: 2 }, speed: { initialQuality: 9 }, step_height: { initialQuality: 9 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:roller_skate" }
+				item: { components: { "ftbquests:missing_item": "relics:roller_skate" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 1.0d
@@ -171,8 +158,11 @@
 					count: 10
 					id: "71B74405C11A27CE"
 					item: {
+						components: {
+							"ftbquests:missing_item": "relics:relic_experience_bottle"
+						}
 						count: 1
-						id: "relics:relic_experience_bottle"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -191,7 +181,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "0045D90350F06441"
-				item: { components: { "relics:data": { abilities: { abilities: { regeneration: { lock: { breaks: 5 }, points: 0, stats: { max_health: { initialQuality: 1 }, regeneration: { initialQuality: 10 } } }, shock: { lock: { breaks: 5 }, points: 0, stats: { bounces: { initialQuality: 9 }, cooldown: { initialQuality: 8 }, damage: { initialQuality: 9 }, damage_modifier: { initialQuality: 9 }, distance: { initialQuality: 7 }, duration: { initialQuality: 6 }, knockback: { initialQuality: 4 }, paralysis: { initialQuality: 10 }, radius: { initialQuality: 5 }, rings: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:jellyfish_necklace" }
+				item: { components: { "ftbquests:missing_item": "relics:jellyfish_necklace" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -205,8 +195,11 @@
 					count: 10
 					id: "4EC426A774CFF65B"
 					item: {
+						components: {
+							"ftbquests:missing_item": "relics:relic_experience_bottle"
+						}
 						count: 1
-						id: "relics:relic_experience_bottle"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -223,7 +216,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "25DB66CF433EA60F"
-				item: { components: { "relics:data": { abilities: { abilities: { pack: { lock: { breaks: 5 }, points: 0, stats: { damage_modifier: { initialQuality: 3 }, pet_radius: { initialQuality: 6 }, resistance_per_pet: { initialQuality: 7 }, revival_cost: { initialQuality: 4 } } }, slots: { lock: { breaks: 5 }, points: 0, stats: { amount: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:hunting_belt" }
+				item: { components: { "ftbquests:missing_item": "relics:hunting_belt" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -2.0d
@@ -237,8 +230,11 @@
 					count: 10
 					id: "13EA8CED7EC0185B"
 					item: {
+						components: {
+							"ftbquests:missing_item": "relics:relic_experience_bottle"
+						}
 						count: 1
-						id: "relics:relic_experience_bottle"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -255,7 +251,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "0436F96069375D4B"
-				item: { components: { "relics:data": { abilities: { abilities: { reflection: { lock: { breaks: 5 }, points: 0, stats: { bounces: { initialQuality: 7 }, chance: { initialQuality: 1 }, damage: { initialQuality: 6 }, lifetime: { initialQuality: 9 }, piercings: { initialQuality: 7 }, stun: { initialQuality: 10 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:reflective_necklace" }
+				item: { components: { "ftbquests:missing_item": "relics:reflective_necklace" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -3.5d
@@ -269,8 +265,11 @@
 					count: 10
 					id: "2553B55660B1DFC6"
 					item: {
+						components: {
+							"ftbquests:missing_item": "relics:relic_experience_bottle"
+						}
 						count: 1
-						id: "relics:relic_experience_bottle"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -287,7 +286,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "3B5C71C7F3798A0E"
-				item: { components: { "relics:chorus_staff/charge": 4, "relics:data": { abilities: { abilities: { blink: { lock: { breaks: 5 }, points: 0, stats: { cooldown: { initialQuality: 5 }, distance: { initialQuality: 10 }, max_charge: { initialQuality: 3 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:chorus_staff" }
+				item: { components: { "ftbquests:missing_item": "relics:chorus_staff" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.0d
@@ -301,8 +300,11 @@
 					count: 10
 					id: "70BE3CE7991B95EF"
 					item: {
+						components: {
+							"ftbquests:missing_item": "relics:relic_experience_bottle"
+						}
 						count: 1
-						id: "relics:relic_experience_bottle"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -319,7 +321,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "6B6BA467225122A8"
-				item: { components: { "relics:data": { abilities: { abilities: { rewind: { lock: { breaks: 5 }, points: 0, stats: { time: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:clot_of_time" }
+				item: { components: { "ftbquests:missing_item": "relics:clot_of_time" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 2.0d
@@ -329,45 +331,9 @@
 			dependencies: ["5D82340E9BED9C79"]
 			icon: {
 				components: {
-					"relics:data": {
-						abilities: {
-							abilities: {
-								gliding: {
-									lock: {
-										breaks: 5
-									}
-									points: 0
-									stats: {
-										damage: {
-											initialQuality: 3
-										}
-										efficiency: {
-											initialQuality: 6
-										}
-										resistance: {
-											initialQuality: 1
-										}
-									}
-								}
-								slots: {
-									lock: {
-										breaks: 5
-									}
-									points: 0
-									stats: {
-										amount: {
-											initialQuality: 5
-										}
-									}
-								}
-							}
-							synergies: { }
-						}
-						leveling: { }
-						statistic: { }
-					}
+					"ftbquests:missing_item": "relics:kinetic_belt"
 				}
-				id: "relics:kinetic_belt"
+				id: "ftbquests:missing_item"
 			}
 			id: "18DB8C875F2331B2"
 			rewards: [
@@ -375,8 +341,11 @@
 					count: 10
 					id: "18D2A6CA17BB33DB"
 					item: {
+						components: {
+							"ftbquests:missing_item": "relics:relic_experience_bottle"
+						}
 						count: 1
-						id: "relics:relic_experience_bottle"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -393,7 +362,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "39902B0053BD0A97"
-				item: { components: { "relics:data": { abilities: { abilities: { gliding: { lock: { breaks: 5 }, points: 0, stats: { damage: { initialQuality: 3 }, efficiency: { initialQuality: 6 }, resistance: { initialQuality: 1 } } }, slots: { lock: { breaks: 5 }, points: 0, stats: { amount: { initialQuality: 5 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:kinetic_belt" }
+				item: { components: { "ftbquests:missing_item": "relics:kinetic_belt" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 4.0d
@@ -407,8 +376,11 @@
 					count: 10
 					id: "657518074319A215"
 					item: {
+						components: {
+							"ftbquests:missing_item": "relics:relic_experience_bottle"
+						}
 						count: 1
-						id: "relics:relic_experience_bottle"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -425,7 +397,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "11655B2807FF11CA"
-				item: { components: { "relics:data": { abilities: { abilities: { glass: { lock: { breaks: 5 }, points: 0, stats: { capacity: { initialQuality: 4 }, max_fluids: { initialQuality: 10 }, speed: { } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:cut_glass_boot" }
+				item: { components: { "ftbquests:missing_item": "relics:cut_glass_boot" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.0d
@@ -438,15 +410,18 @@
 				count: 10
 				id: "16174D4BD699A6AE"
 				item: {
+					components: {
+						"ftbquests:missing_item": "relics:relic_experience_bottle"
+					}
 					count: 1
-					id: "relics:relic_experience_bottle"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "565C55FF7E131F17"
-				item: { components: { "relics:data": { abilities: { abilities: { satiety: { lock: { breaks: 5 }, points: 0, stats: { chance: { }, healing: { initialQuality: 2 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:chef_hat" }
+				item: { components: { "ftbquests:missing_item": "relics:chef_hat" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -460,8 +435,11 @@
 					count: 10
 					id: "68E6DE9DEE1F710E"
 					item: {
+						components: {
+							"ftbquests:missing_item": "relics:relic_experience_bottle"
+						}
 						count: 1
-						id: "relics:relic_experience_bottle"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -478,7 +456,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "51439DB4FA76AC48"
-				item: { components: { "relics:data": { abilities: { abilities: { envy: { lock: { breaks: 5 }, points: 0, stats: { incoming_damage_multiplier: { initialQuality: 8 }, outgoing_damage_multiplier: { initialQuality: 7 } } }, gluttony: { lock: { breaks: 5 }, points: 0, stats: { early_multiplier: { initialQuality: 2 }, late_multiplier: { initialQuality: 9 } } }, greed: { lock: { breaks: 5 }, points: 0, stats: { chance: { initialQuality: 3 }, looting: { }, luck: { initialQuality: 5 } } }, lust: { lock: { breaks: 5 }, points: 0, stats: { amount: { initialQuality: 1 }, time: { initialQuality: 6 } } }, pride: { lock: { breaks: 5 }, points: 0, stats: { multiplier: { initialQuality: 9 } } }, sloth: { lock: { breaks: 5 }, points: 0, stats: { speed: { initialQuality: 8 }, time: { initialQuality: 8 } } }, wrath: { lock: { breaks: 5 }, points: 0, stats: { early_multiplier: { initialQuality: 8 }, late_multiplier: { initialQuality: 10 }, window: { initialQuality: 10 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:ring_of_the_seven_deadly_sins" }
+				item: { components: { "ftbquests:missing_item": "relics:ring_of_the_seven_deadly_sins" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -2.0d
@@ -488,127 +466,27 @@
 			dependencies: ["5D82340E9BED9C79"]
 			icon: {
 				components: {
-					"relics:data": {
-						abilities: {
-							abilities: {
-								constellation: {
-									lock: {
-										breaks: 0
-									}
-									points: 0
-									stats: {
-										constellation_radius: {
-											initialQuality: 7
-										}
-										explosion_damage: {
-											initialQuality: 10
-										}
-										explosion_radius: {
-											initialQuality: 8
-										}
-										star_chance: {
-											initialQuality: 4
-										}
-										star_lifetime: {
-											initialQuality: 6
-										}
-										stun_duration: {
-											initialQuality: 5
-										}
-										tremor_duration: {
-											initialQuality: 3
-										}
-									}
-								}
-								invisibility: {
-									lock: {
-										breaks: 0
-									}
-									points: 0
-									stats: {
-										brightness: {
-											initialQuality: 5
-										}
-										cooldown: {
-											initialQuality: 7
-										}
-										damage: {
-											initialQuality: 1
-										}
-									}
-								}
-								phase: {
-									lock: {
-										breaks: 5
-									}
-									points: 0
-									stats: {
-										attack_damage: {
-											initialQuality: 10
-										}
-										attack_speed: {
-											initialQuality: 8
-										}
-										duration: {
-											initialQuality: 4
-										}
-										health_regeneration: {
-											initialQuality: 2
-										}
-										max_health: {
-											initialQuality: 9
-										}
-										modifier: {
-											initialQuality: 2
-										}
-									}
-								}
-								starfall: {
-									lock: {
-										breaks: 0
-									}
-									points: 0
-									stats: {
-										bounce_chance: {
-											initialQuality: 2
-										}
-										chance: {
-											initialQuality: 1
-										}
-										damage: {
-											initialQuality: 1
-										}
-										radius: {
-											initialQuality: 1
-										}
-										stun: {
-											initialQuality: 4
-										}
-									}
-								}
-							}
-							synergies: { }
-						}
-						leveling: { }
-						statistic: { }
-					}
+					"ftbquests:missing_item": "relics:midnight_mantle"
 				}
-				id: "relics:midnight_mantle"
+				id: "ftbquests:missing_item"
 			}
 			id: "7C3F65B5DAC7E57B"
 			rewards: [{
 				count: 10
 				id: "4D80A1DBCC49FA15"
 				item: {
+					components: {
+						"ftbquests:missing_item": "relics:relic_experience_bottle"
+					}
 					count: 1
-					id: "relics:relic_experience_bottle"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "2A6F0D976724CBF3"
-				item: { components: { "relics:data": { abilities: { abilities: { constellation: { lock: { breaks: 0 }, points: 0, stats: { constellation_radius: { initialQuality: 7 }, explosion_damage: { initialQuality: 10 }, explosion_radius: { initialQuality: 8 }, star_chance: { initialQuality: 4 }, star_lifetime: { initialQuality: 6 }, stun_duration: { initialQuality: 5 }, tremor_duration: { initialQuality: 3 } } }, invisibility: { lock: { breaks: 0 }, points: 0, stats: { brightness: { initialQuality: 5 }, cooldown: { initialQuality: 7 }, damage: { initialQuality: 1 } } }, phase: { lock: { breaks: 5 }, points: 0, stats: { attack_damage: { initialQuality: 10 }, attack_speed: { initialQuality: 8 }, duration: { initialQuality: 4 }, health_regeneration: { initialQuality: 2 }, max_health: { initialQuality: 9 }, modifier: { initialQuality: 2 } } }, starfall: { lock: { breaks: 0 }, points: 0, stats: { bounce_chance: { initialQuality: 2 }, chance: { initialQuality: 1 }, damage: { initialQuality: 1 }, radius: { initialQuality: 1 }, stun: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:midnight_mantle" }
+				item: { components: { "ftbquests:missing_item": "relics:midnight_mantle" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.5d
@@ -621,15 +499,18 @@
 				count: 10
 				id: "25F848986B8E004A"
 				item: {
+					components: {
+						"ftbquests:missing_item": "relics:relic_experience_bottle"
+					}
 					count: 1
-					id: "relics:relic_experience_bottle"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "5DFC2DA62718174A"
-				item: { components: { "relics:data": { abilities: { abilities: { camouflage: { lock: { breaks: 5 }, points: 0, stats: { absorption: { initialQuality: 10 }, cooldown: { }, heal: { initialQuality: 6 } } }, revival: { lock: { breaks: 0 }, points: 0, stats: { damage: { initialQuality: 4 }, heal: { initialQuality: 8 }, paralysis: { initialQuality: 4 }, radius: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:leafy_mantle" }
+				item: { components: { "ftbquests:missing_item": "relics:leafy_mantle" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -642,15 +523,18 @@
 				count: 10
 				id: "1E734CA95E740CFB"
 				item: {
+					components: {
+						"ftbquests:missing_item": "relics:relic_experience_bottle"
+					}
 					count: 1
-					id: "relics:relic_experience_bottle"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "244B401B38A179AF"
-				item: { components: { "relics:data": { abilities: { abilities: { bounce: { lock: { breaks: 5 }, points: 0, stats: { damage: { initialQuality: 3 }, damage_modifier: { initialQuality: 1 }, power: { initialQuality: 10 }, radius: { initialQuality: 8 }, stun: { initialQuality: 5 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:springy_boot" }
+				item: { components: { "ftbquests:missing_item": "relics:springy_boot" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 2.0d
@@ -664,8 +548,11 @@
 					count: 10
 					id: "7DFC929F7C3BD47E"
 					item: {
+						components: {
+							"ftbquests:missing_item": "relics:relic_experience_bottle"
+						}
 						count: 1
-						id: "relics:relic_experience_bottle"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -682,7 +569,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "4178C3EBAD9F0670"
-				item: { components: { "relics:data": { abilities: { abilities: { stable: { lock: { breaks: 5 }, points: 0, stats: { heal: { initialQuality: 6 }, max_slots: { initialQuality: 3 }, resistance: { initialQuality: 1 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:rider_flute" }
+				item: { components: { "ftbquests:missing_item": "relics:rider_flute" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -3.0d
@@ -798,8 +685,11 @@
 					count: 10
 					id: "084B8CE7B219477F"
 					item: {
+						components: {
+							"ftbquests:missing_item": "relics:relic_experience_bottle"
+						}
 						count: 1
-						id: "relics:relic_experience_bottle"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -816,7 +706,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "12326EDDE280D1E6"
-				item: { count: 1, id: "relics:golden_tooth" }
+				item: { components: { "ftbquests:missing_item": "relics:golden_tooth" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -3.0d
@@ -830,8 +720,11 @@
 					count: 10
 					id: "11D1884612D7D2AA"
 					item: {
+						components: {
+							"ftbquests:missing_item": "relics:relic_experience_bottle"
+						}
 						count: 1
-						id: "relics:relic_experience_bottle"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -849,7 +742,7 @@
 			]
 			tasks: [{
 				id: "73989F729ED52289"
-				item: { components: { "relics:data": { abilities: { abilities: { distortion: { lock: { breaks: 5 }, points: 0, stats: { miss_chance: { initialQuality: 1 } } }, glitch: { lock: { breaks: 0 }, points: 0, stats: { fall_damage: { initialQuality: 3 }, phase_time: { initialQuality: 1 }, stability_time: { initialQuality: 4 } } }, illusion: { lock: { breaks: 0 }, points: 0, stats: { duration: { initialQuality: 1 }, echo_radius: { initialQuality: 6 }, interval: { initialQuality: 3 }, stun: { initialQuality: 5 }, stun_radius: { initialQuality: 9 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:glitchy_mantle" }
+				item: { components: { "ftbquests:missing_item": "relics:glitchy_mantle" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 1.0d
@@ -862,14 +755,17 @@
 				count: 10
 				id: "0A223EE7B106F7DF"
 				item: {
+					components: {
+						"ftbquests:missing_item": "relics:relic_experience_bottle"
+					}
 					count: 1
-					id: "relics:relic_experience_bottle"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "64FF9D3D1D3B8E3A"
-				item: { components: { "relics:data": { abilities: { abilities: { fog: { lock: { breaks: 5 }, points: 0, stats: { air_loss: { initialQuality: 5 }, duration: { initialQuality: 4 }, radius: { initialQuality: 1 }, suffocation_damage: { initialQuality: 7 }, tremor: { initialQuality: 8 } } }, gaze: { lock: { breaks: 0 }, points: 0, stats: { charges: { initialQuality: 5 }, damage: { initialQuality: 8 }, range: { initialQuality: 10 }, weakness: { initialQuality: 5 } } }, spectral_escape: { lock: { breaks: 0 }, points: 0, stats: { cooldown: { initialQuality: 2 }, damage: { initialQuality: 1 }, duration: { initialQuality: 1 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:ghostly_mantle" }
+				item: { components: { "ftbquests:missing_item": "relics:ghostly_mantle" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -883,8 +779,11 @@
 					count: 10
 					id: "4110C05CC7E8FBB2"
 					item: {
+						components: {
+							"ftbquests:missing_item": "relics:relic_experience_bottle"
+						}
 						count: 1
-						id: "relics:relic_experience_bottle"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -900,7 +799,7 @@
 			]
 			tasks: [{
 				id: "1CACE61402A3DD0B"
-				item: { components: { "relics:data": { abilities: { abilities: { dispersion: { lock: { breaks: 5 }, points: 0, stats: { distribution_ratio: { initialQuality: 6 }, player_xp_ratio: { initialQuality: 2 }, same_item_bonus: { initialQuality: 9 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:experience_disperser" }
+				item: { components: { "ftbquests:missing_item": "relics:experience_disperser" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -913,14 +812,17 @@
 				count: 10
 				id: "473626192679DE53"
 				item: {
+					components: {
+						"ftbquests:missing_item": "relics:relic_experience_bottle"
+					}
 					count: 1
-					id: "relics:relic_experience_bottle"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "5EEB0AA02F6EA791"
-				item: { components: { "relics:data": { abilities: { abilities: { retaliation: { lock: { breaks: 5 }, points: 0, stats: { cooldown: { initialQuality: 4 }, extension: { initialQuality: 10 }, miss_damage: { initialQuality: 6 }, miss_duration: { }, projectile_damage: { initialQuality: 9 }, stun: { initialQuality: 3 }, stun_radius: { initialQuality: 5 }, window: { initialQuality: 7 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:shield_of_retaliation" }
+				item: { components: { "ftbquests:missing_item": "relics:shield_of_retaliation" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d

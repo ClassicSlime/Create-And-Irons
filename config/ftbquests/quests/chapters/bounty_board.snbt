@@ -519,7 +519,10 @@
 			tasks: [{
 				entity: "ars_nouveau:wilden_boss"
 				icon: {
-					id: "ars_nouveau:wilden_tribute"
+					components: {
+						"ftbquests:missing_item": "ars_nouveau:wilden_tribute"
+					}
+					id: "ftbquests:missing_item"
 				}
 				id: "452B65E139D9E12D"
 				type: "kill"

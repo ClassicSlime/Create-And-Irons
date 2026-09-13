@@ -46,7 +46,7 @@ customShadersEnabled = true
 #Enables explosions to destroy blocks
 explosionDestroyBlocksEnabled = true
 #Sets the probability of dropping some item(s) by monster mobs.
-# Default: 0.25
+# Default: 0.35
 # Range: 0.0 ~ 1.0
 itemDropChance = 0.35
 #Sets the max count of items to be dropped by a monster mob.
@@ -56,7 +56,7 @@ maxItemDropCount = 7
 #Enables bullets breaking glass
 bulletsBreakGlassEnabled = true
 #Modifier to adjust damage dealt by hitscan weapons
-# Default: 0.6
+# Default: 1.0
 # Range: 0.1 ~ 10.0
 hitscanDamageModifier = 1.0
 #Sets the crosshair type.
@@ -86,6 +86,11 @@ ammoIndicatorEnabled = true
 #Sets where the ammo counter and fire mode indicator are displayed on screen.
 #Allowed Values: RIGHT_OF_HOTBAR, LEFT_OF_HOTBAR, TOP_LEFT, TOP_RIGHT
 ammoIndicatorPlacement = "RIGHT_OF_HOTBAR"
+#Enables the on-screen heat indicator for guns with overheating.
+heatIndicatorEnabled = true
+#Sets which screen corner displays the heat indicator.
+#Allowed Values: BOTTOM_RIGHT, BOTTOM_LEFT, TOP_LEFT, TOP_RIGHT
+heatIndicatorPlacement = "BOTTOM_RIGHT"
 #Enables the on-screen prompt for opening interactable blocks while holding a gun.
 interactionPromptEnabled = true
 #URL to open when clicking the Browse button in the Extension Packs screen

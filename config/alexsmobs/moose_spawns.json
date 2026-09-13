@@ -9,12 +9,12 @@
       {
         "type": "BIOME_TAG",
         "negate": false,
-        "value": "c:is_snowy"
+        "value": "alexsmobs:is_snowy"
       },
       {
         "type": "BIOME_TAG",
         "negate": false,
-        "value": "c:is_wasteland"
+        "value": "alexsmobs:is_wasteland"
       }
     ],
     [
@@ -26,7 +26,7 @@
       {
         "type": "BIOME_TAG",
         "negate": false,
-        "value": "c:is_snowy"
+        "value": "alexsmobs:is_snowy"
       },
       {
         "type": "BIOME_TAG",
