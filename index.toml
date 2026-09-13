@@ -2096,6 +2096,11 @@ hash = "039ecee245a68300feddca1ea7c7c98de9420cde01fbf32d9e01a1ff79e6c80f"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs(1.21.1).pw.toml"
+hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "41b2b3447cc807fa54699d5830f5da766cf29a0c91b3a3ea0156e92f22e9cd44"
 metafile = true
@@ -2856,6 +2861,11 @@ hash = "2b0bc5ca91f1227bf80f7c506617d359c026db373218d9afcb8073670d97de7a"
 metafile = true
 
 [[files]]
+file = "mods/point-blank-aeronautics-compat.pw.toml"
+hash = "10d147e95742260b2e7229936ea83c7a1163f11ebd4cda87e0ccecc40b31aa91"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
 metafile = true
@@ -3148,6 +3158,11 @@ metafile = true
 [[files]]
 file = "mods/veinminer-mod.pw.toml"
 hash = "145d0b4173183c599406cbc83a79b80194f71c587399278b4505f8771477bad6"
+metafile = true
+
+[[files]]
+file = "mods/vics-point-blank.pw.toml"
+hash = "4b11f8fdedd3b99842f6d9d99334955c2aafebe6a8d7f4d4e2521b74c07e01d9"
 metafile = true
 
 [[files]]
