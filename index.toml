@@ -2442,11 +2442,6 @@ hash = "f976c1685acfb6d19496454f2d8d9b3128778e7a7a940a458992d145dc3a8fba"
 metafile = true
 
 [[files]]
-file = "mods/magic-of-color.pw.toml"
-hash = "d0a0038979863a2d711146e982a359f3950be71fa1b55d71119d93d7eaccc949"
-metafile = true
-
-[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "9937e9a35461a0d55b574bb3e363c342b033a937f3e99365697886df6ce5ba73"
 metafile = true
@@ -2474,11 +2469,6 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "00fb150ec4389dbe540bcede8ac3b6e34677f5bf3e3454732d311b7e44569d63"
-metafile = true
-
-[[files]]
-file = "mods/pastel.pw.toml"
-hash = "aef91b49956d6a5ddb71b2b0b8b60fffb045de7af8ebd9ec8946b2d579ed8f4c"
 metafile = true
 
 [[files]]
