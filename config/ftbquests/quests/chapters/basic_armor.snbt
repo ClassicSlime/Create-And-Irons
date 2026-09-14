@@ -3,13 +3,13 @@
 	default_quest_shape: "rsquare"
 	disable_toast: true
 	filename: "basic_armor"
-	group: "15E5B587D291A4AA"
+	group: ""
 	icon: {
 		id: "minecraft:diamond_chestplate"
 	}
 	id: "4791C8461B1B4D5F"
 	images: [ ]
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{

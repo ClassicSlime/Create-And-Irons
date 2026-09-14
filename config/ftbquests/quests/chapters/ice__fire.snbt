@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "circle"
 	filename: "ice__fire"
-	group: "5A4775CCD6D26C80"
+	group: ""
 	icon: {
 		components: {
 			"ftbquests:missing_item": "iceandfire:dragon_skull_fire"
@@ -66,7 +66,7 @@
 			y: -49.5d
 		}
 	]
-	order_index: 2
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
@@ -270,6 +270,7 @@
 					id: "0D935234F9A13C00"
 					item: {
 						components: {
+							"minecraft:max_stack_size": 4
 							"minecraft:potion_contents": {
 								potion: "minecraft:water_breathing"
 							}
@@ -1007,6 +1008,7 @@
 					id: "2C27894C6B1B7D20"
 					item: {
 						components: {
+							"minecraft:max_stack_size": 4
 							"minecraft:potion_contents": {
 								potion: "minecraft:long_fire_resistance"
 							}
@@ -1055,6 +1057,7 @@
 					id: "6387A0F9A46CA8E0"
 					item: {
 						components: {
+							"minecraft:max_stack_size": 4
 							"minecraft:potion_contents": {
 								potion: "minecraft:long_swiftness"
 							}
@@ -1106,6 +1109,7 @@
 					id: "0707B4686771F2D3"
 					item: {
 						components: {
+							"minecraft:max_stack_size": 4
 							"minecraft:potion_contents": {
 								potion: "minecraft:long_strength"
 							}

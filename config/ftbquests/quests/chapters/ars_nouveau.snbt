@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "ars_nouveau"
-	group: "02FE661031A105D8"
+	group: ""
 	icon: {
 		components: {
 			"ftbquests:missing_item": "ars_nouveau:source_gem"
@@ -1529,6 +1529,9 @@
 				{
 					id: "565501823D60D08C"
 					item: {
+						components: {
+							"minecraft:max_stack_size": 4
+						}
 						count: 1
 						id: "minecraft:potion"
 					}
@@ -2257,6 +2260,9 @@
 				{
 					id: "31255CD8D6C186BF"
 					item: {
+						components: {
+							"minecraft:max_stack_size": 4
+						}
 						count: 1
 						id: "minecraft:lingering_potion"
 					}

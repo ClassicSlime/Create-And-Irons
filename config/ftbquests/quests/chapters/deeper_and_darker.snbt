@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "hexagon"
 	filename: "deeper_and_darker"
-	group: "5A4775CCD6D26C80"
+	group: ""
 	icon: {
 		components: {
 			"ftbquests:missing_item": "deeperdarker:heart_of_the_deep"
@@ -11,7 +11,7 @@
 	}
 	id: "13B172FA69904D9F"
 	images: [ ]
-	order_index: 1
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
@@ -898,6 +898,7 @@
 				id: "13610484B7A1EC8A"
 				item: {
 					components: {
+						"minecraft:max_stack_size": 4
 						"minecraft:potion_contents": {
 							potion: "minecraft:slow_falling"
 						}
