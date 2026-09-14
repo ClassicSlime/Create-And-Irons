@@ -52,24 +52,12 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "ars_nouveau": {
-    "mob_jar": true
-  },
-  "apothic_spawners": {
-    "spawner": true
-  },
   "jade_access": {
     "held_item": true,
     "sign": true,
     "block": true,
     "entity": true,
     "entity_variant": true
-  },
-  "quark": {
-    "oretoise_eating_cooldown": true
-  },
-  "supplementaries": {
-    "hat_stand": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -82,13 +70,7 @@
     "block_properties": false,
     "mod_name": true
   },
-  "iceandfire": {
-    "dragon_egg_entity": true,
-    "multipart": true,
-    "dragon_egg_block": true,
-    "dragon": true
-  },
-  "balm": {
-    "jade": true
+  "createthrusters": {
+    "thruster_resources": true
   }
 }

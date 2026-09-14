@@ -4,7 +4,10 @@
 	filename: "ars_nouveau"
 	group: "02FE661031A105D8"
 	icon: {
-		id: "ars_nouveau:source_gem"
+		components: {
+			"ftbquests:missing_item": "ars_nouveau:source_gem"
+		}
+		id: "ftbquests:missing_item"
 	}
 	id: "6AEDA2F9BEB57759"
 	images: [
@@ -33,15 +36,21 @@
 	quests: [
 		{
 			icon: {
-				id: "ars_nouveau:worn_notebook"
+				components: {
+					"ftbquests:missing_item": "ars_nouveau:worn_notebook"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "6E0E13806F388D7E"
 			rewards: [
 				{
 					id: "24AA489F2E015748"
 					item: {
+						components: {
+							"ftbquests:missing_item": "ars_nouveau:worn_notebook"
+						}
 						count: 1
-						id: "ars_nouveau:worn_notebook"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -81,7 +90,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "1624D71379FBBDA6"
-				item: { count: 1, id: "ars_nouveau:starbuncle_charm" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:starbuncle_charm" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 10.5d
@@ -107,7 +116,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "7CB3845C4BCA9F0E"
-				item: { count: 1, id: "ars_nouveau:wixie_charm" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:wixie_charm" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 10.0d
@@ -124,7 +133,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "569B0D7ABC091612"
-				item: { count: 1, id: "ars_nouveau:glyph_intangible" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_intangible" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 2.0d
@@ -141,7 +150,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "55B5FAA746D6C829"
-				item: { count: 1, id: "ars_nouveau:glyph_ignite" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_ignite" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -158,7 +167,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "615188F5D6F85423"
-				item: { count: 1, id: "ars_nouveau:glyph_flare" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_flare" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -175,7 +184,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "75FB9F65DDF0403C"
-				item: { count: 1, id: "ars_nouveau:glyph_craft" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_craft" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -192,7 +201,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "20E81CE5B5665DAF"
-				item: { count: 1, id: "ars_nouveau:glyph_cold_snap" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_cold_snap" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -209,7 +218,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "17D156865446035D"
-				item: { count: 1, id: "ars_nouveau:glyph_rune" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_rune" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -5.0d
@@ -226,7 +235,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "3472B3099BD5EE5D"
-				item: { count: 1, id: "ars_nouveau:glyph_snare" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_snare" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -5.0d
@@ -243,7 +252,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "6A60A533BDBCCAD9"
-				item: { count: 1, id: "ars_nouveau:glyph_slowfall" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_slowfall" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -260,7 +269,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "12CE4920DABD0F98"
-				item: { count: 1, id: "ars_nouveau:glyph_freeze" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_freeze" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -5.0d
@@ -277,7 +286,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "2CBB0C0E32E58128"
-				item: { count: 1, id: "ars_nouveau:glyph_split" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_split" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.0d
@@ -294,7 +303,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "05AD66530B699FA0"
-				item: { count: 1, id: "ars_nouveau:glyph_crush" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_crush" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -311,7 +320,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "21E1D29B5CD3372A"
-				item: { count: 1, id: "ars_nouveau:glyph_smelt" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_smelt" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -2.0d
@@ -328,7 +337,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "761F5F98E18E824D"
-				item: { count: 1, id: "ars_nouveau:glyph_accelerate" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_accelerate" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -345,7 +354,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "0AD6A125820795DE"
-				item: { count: 1, id: "ars_nouveau:glyph_summon_vex" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_summon_vex" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 2.0d
@@ -362,7 +371,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "59CE7EAEA0C25808"
-				item: { count: 1, id: "ars_nouveau:glyph_lightning" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_lightning" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 4.0d
@@ -379,7 +388,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "54E317444AF31DA0"
-				item: { count: 1, id: "ars_nouveau:glyph_grow" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_grow" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -396,7 +405,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "3512BC20229693CD"
-				item: { count: 1, id: "ars_nouveau:glyph_dampen" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_dampen" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -413,7 +422,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "05BAF8FF07FD6A10"
-				item: { count: 1, id: "ars_nouveau:glyph_invisibility" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_invisibility" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -2.0d
@@ -430,7 +439,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "6E473A397B0824E4"
-				item: { count: 1, id: "ars_nouveau:glyph_extract" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_extract" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -447,7 +456,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "312250C813E89B54"
-				item: { count: 1, id: "ars_nouveau:glyph_delay" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_delay" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -464,7 +473,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "3F20F6E300F8E095"
-				item: { count: 1, id: "ars_nouveau:glyph_light" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_light" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -481,7 +490,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "353BF5D2B4D53BF5"
-				item: { count: 1, id: "ars_nouveau:glyph_duration_down" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_duration_down" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -2.0d
@@ -498,7 +507,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "105A471BB30BD30F"
-				item: { count: 1, id: "ars_nouveau:glyph_exchange" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_exchange" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -515,7 +524,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "52234A1EC13FC6A0"
-				item: { count: 1, id: "ars_nouveau:glyph_place_block" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_place_block" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -532,7 +541,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "5C9BC3699A5762CA"
-				item: { count: 1, id: "ars_nouveau:glyph_conjure_water" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_conjure_water" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -2.0d
@@ -549,7 +558,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "651B06E6873F34CF"
-				item: { count: 1, id: "ars_nouveau:glyph_cut" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_cut" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -566,7 +575,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "545B39FB8B2627AD"
-				item: { count: 1, id: "ars_nouveau:glyph_harm" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_harm" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -583,7 +592,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "6B7078A98D08EC1F"
-				item: { count: 1, id: "ars_nouveau:glyph_interact" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_interact" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -600,7 +609,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "32C20AFC9A4A0E0E"
-				item: { count: 1, id: "ars_nouveau:glyph_blink" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_blink" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.0d
@@ -617,7 +626,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "41EF535B718F674F"
-				item: { count: 1, id: "ars_nouveau:glyph_amplify" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_amplify" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -634,7 +643,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "405BF1E9FE690938"
-				item: { count: 1, id: "ars_nouveau:glyph_phantom_block" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_phantom_block" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -5.0d
@@ -651,7 +660,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "7F2FC5D08E7B548B"
-				item: { count: 1, id: "ars_nouveau:glyph_fell" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_fell" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -668,7 +677,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "56F8DEF68AA8B41C"
-				item: { count: 1, id: "ars_nouveau:glyph_extend_time" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_extend_time" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -2.0d
@@ -685,7 +694,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "53250785A630D303"
-				item: { count: 1, id: "ars_nouveau:glyph_heal" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_heal" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -702,7 +711,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "38003743B695C5C1"
-				item: { count: 1, id: "ars_nouveau:glyph_leap" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_leap" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -719,7 +728,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "23921DC99D9F19D8"
-				item: { count: 1, id: "ars_nouveau:glyph_redstone_signal" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_redstone_signal" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -5.0d
@@ -736,7 +745,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "04E0C481BB6ABD87"
-				item: { count: 1, id: "ars_nouveau:glyph_pierce" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_pierce" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -753,7 +762,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "10D3703D3C415FC3"
-				item: { count: 1, id: "ars_nouveau:glyph_harvest" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_harvest" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -770,7 +779,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "55DA99DF01D9C37C"
-				item: { count: 1, id: "ars_nouveau:glyph_fortune" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_fortune" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -2.0d
@@ -787,7 +796,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "696076AA28E02C89"
-				item: { count: 1, id: "ars_nouveau:glyph_break" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_break" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -5.0d
@@ -804,7 +813,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "44C797F6DFAF95D9"
-				item: { count: 1, id: "ars_nouveau:glyph_pickup" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_pickup" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -821,7 +830,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "486CF16F4F5C860E"
-				item: { count: 1, id: "ars_nouveau:glyph_launch" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_launch" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -838,7 +847,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "54AED59019A9FC16"
-				item: { count: 1, id: "ars_nouveau:glyph_dispel" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_dispel" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -5.0d
@@ -855,7 +864,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "3EBC8A668657B7E1"
-				item: { count: 1, id: "ars_nouveau:glyph_ender_inventory" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_ender_inventory" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -872,7 +881,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "41A6ED0A1538D0A8"
-				item: { count: 1, id: "ars_nouveau:glyph_pull" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_pull" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -5.0d
@@ -889,7 +898,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "2626959A926C1054"
-				item: { count: 1, id: "ars_nouveau:glyph_explosion" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_explosion" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -2.0d
@@ -906,7 +915,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "624F70371F036C65"
-				item: { count: 1, id: "ars_nouveau:glyph_fangs" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_fangs" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 4.0d
@@ -924,7 +933,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "03829269308C4BC8"
-				item: { count: 1, id: "ars_nouveau:glyph_aoe" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_aoe" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -941,7 +950,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "27987EFDAC19DE52"
-				item: { count: 1, id: "ars_nouveau:glyph_gravity" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_gravity" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -2.0d
@@ -958,7 +967,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "589EE0FDB1FB0FA9"
-				item: { count: 1, id: "ars_nouveau:glyph_wither" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_wither" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 4.0d
@@ -975,7 +984,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "3270B8D5C37F7F34"
-				item: { count: 1, id: "ars_nouveau:glyph_gust" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_gust" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -1037,8 +1046,11 @@
 					count: 2
 					id: "18BF6731D11BADA5"
 					item: {
+						components: {
+							"ftbquests:missing_item": "ars_nouveau:magebloom_fiber"
+						}
 						count: 1
-						id: "ars_nouveau:magebloom_fiber"
+						id: "ftbquests:missing_item"
 					}
 					random_bonus: 4
 					type: "item"
@@ -1051,7 +1063,7 @@
 			]
 			tasks: [{
 				id: "561CAB97C346BD65"
-				item: { count: 1, id: "ars_nouveau:magebloom_fiber" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:magebloom_fiber" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 15.5d
@@ -1060,7 +1072,10 @@
 		{
 			dependencies: ["18A2FBE2D4133FA2"]
 			icon: {
-				id: "ars_nouveau:enchanting_apparatus"
+				components: {
+					"ftbquests:missing_item": "ars_nouveau:enchanting_apparatus"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "3D862A3D3F83CA26"
 			rewards: [
@@ -1081,12 +1096,12 @@
 			tasks: [
 				{
 					id: "2C36C64341C6B6F2"
-					item: { count: 1, id: "ars_nouveau:enchanting_apparatus" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:enchanting_apparatus" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "695EFDD9FC874F04"
-					item: { count: 1, id: "ars_nouveau:arcane_core" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:arcane_core" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 			]
@@ -1114,7 +1129,7 @@
 			tasks: [{
 				count: 8L
 				id: "5B80C1EF5D85EA64"
-				item: { count: 1, id: "ars_nouveau:arcane_pedestal" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:arcane_pedestal" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 7.5d
@@ -1131,7 +1146,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "5A03F82C6B50D548"
-				item: { count: 1, id: "ars_nouveau:glyph_summon_steed" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_summon_steed" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -1148,7 +1163,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "29E06B429B4AE176"
-				item: { count: 1, id: "ars_nouveau:glyph_summon_wolves" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_summon_wolves" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -1165,7 +1180,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "17413068980A17B1"
-				item: { count: 1, id: "ars_nouveau:glyph_underfoot" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_underfoot" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -5.0d
@@ -1182,7 +1197,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "72D77A51A69EDA71"
-				item: { count: 1, id: "ars_nouveau:glyph_summon_decoy" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_summon_decoy" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.0d
@@ -1199,7 +1214,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "2A80E3849EB6A71D"
-				item: { count: 1, id: "ars_nouveau:glyph_hex" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_hex" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 2.0d
@@ -1224,7 +1239,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "3280A874803F3976"
-				item: { count: 1, id: "ars_nouveau:ritual_sunrise" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_sunrise" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 8.0d
@@ -1249,7 +1264,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "342E847B567C499A"
-				item: { count: 1, id: "ars_nouveau:ritual_warping" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_warping" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 8.5d
@@ -1274,7 +1289,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "4553742BFEB7AAF6"
-				item: { count: 1, id: "ars_nouveau:ritual_overgrowth" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_overgrowth" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 7.5d
@@ -1299,7 +1314,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "3FCA99481934542B"
-				item: { count: 1, id: "ars_nouveau:ritual_moonfall" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_moonfall" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 7.0d
@@ -1324,7 +1339,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "139DDE68B8C4A5C6"
-				item: { count: 1, id: "ars_nouveau:ritual_fertility" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_fertility" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 6.5d
@@ -1349,7 +1364,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "252DC59E9F363E10"
-				item: { count: 1, id: "ars_nouveau:ritual_burrowing" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_burrowing" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 7.5d
@@ -1374,7 +1389,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "11D8B50355018821"
-				item: { count: 1, id: "ars_nouveau:ritual_challenge" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_challenge" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 7.0d
@@ -1399,7 +1414,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "51A93C01E6E8F960"
-				item: { count: 1, id: "ars_nouveau:ritual_cloudshaping" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_cloudshaping" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 7.0d
@@ -1424,7 +1439,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "1FBAFEB74535EFAE"
-				item: { count: 1, id: "ars_nouveau:ritual_disintegration" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_disintegration" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 8.0d
@@ -1449,7 +1464,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "6BEA84FA2F3A39AE"
-				item: { count: 1, id: "ars_nouveau:ritual_restoration" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_restoration" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 8.0d
@@ -1475,7 +1490,7 @@
 			size: 1.5d
 			tasks: [{
 				id: "5ADEEEE0C217B20F"
-				item: { count: 1, id: "ars_nouveau:scribes_table" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:scribes_table" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -1501,7 +1516,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "5646241FF2CF806B"
-				item: { count: 1, id: "ars_nouveau:whirlisprig_charm" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:whirlisprig_charm" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 11.0d
@@ -1514,11 +1529,6 @@
 				{
 					id: "565501823D60D08C"
 					item: {
-						components: {
-							"minecraft:potion_contents": {
-								potion: "ars_nouveau:mana_regen_potion"
-							}
-						}
 						count: 1
 						id: "minecraft:potion"
 					}
@@ -1532,7 +1542,7 @@
 			]
 			tasks: [{
 				id: "6988873450238F30"
-				item: { count: 1, id: "ars_nouveau:novice_spell_book" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:novice_spell_book" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -1556,7 +1566,7 @@
 			]
 			tasks: [{
 				id: "0BCFC6422BBF539C"
-				item: { count: 1, id: "ars_nouveau:apprentice_spell_book" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:apprentice_spell_book" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -1580,7 +1590,7 @@
 			]
 			tasks: [{
 				id: "5E7DBDDD97BA8F13"
-				item: { count: 1, id: "ars_nouveau:archmage_spell_book" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:archmage_spell_book" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -1606,7 +1616,7 @@
 			size: 1.5d
 			tasks: [{
 				id: "1E0B9FBF5319CEF6"
-				item: { count: 1, id: "ars_nouveau:ritual_brazier" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_brazier" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 7.5d
@@ -1631,7 +1641,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "7F3D9B9E5E4FD3B8"
-				item: { count: 1, id: "ars_nouveau:potion_jar" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:potion_jar" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.0d
@@ -1645,8 +1655,11 @@
 					count: 2
 					id: "62B7E8C87CCD5E12"
 					item: {
+						components: {
+							"ftbquests:missing_item": "ars_nouveau:archwood_planks"
+						}
 						count: 1
-						id: "ars_nouveau:archwood_planks"
+						id: "ftbquests:missing_item"
 					}
 					random_bonus: 2
 					type: "item"
@@ -1659,7 +1672,7 @@
 			]
 			tasks: [{
 				id: "78B5B8F9CE9EC702"
-				item: { count: 1, id: "ars_nouveau:imbuement_chamber" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:imbuement_chamber" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 1.0d
@@ -1672,8 +1685,11 @@
 				{
 					id: "33B8442826203713"
 					item: {
+						components: {
+							"ftbquests:missing_item": "ars_nouveau:blue_archwood_sapling"
+						}
 						count: 1
-						id: "ars_nouveau:blue_archwood_sapling"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -1698,8 +1714,11 @@
 				{
 					id: "4C615BE675A9F93F"
 					item: {
+						components: {
+							"ftbquests:missing_item": "ars_nouveau:source_jar"
+						}
 						count: 1
-						id: "ars_nouveau:source_jar"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -1719,7 +1738,7 @@
 			size: 1.5d
 			tasks: [{
 				id: "55AA5FAABC23709E"
-				item: { count: 1, id: "ars_nouveau:source_jar" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:source_jar" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.0d
@@ -1745,7 +1764,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "3BFC384D0B963E6E"
-				item: { count: 1, id: "ars_nouveau:drygmy_charm" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:drygmy_charm" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 11.5d
@@ -1771,7 +1790,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "751B3A47FE592B2F"
-				item: { count: 1, id: "ars_nouveau:amethyst_golem_charm" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:amethyst_golem_charm" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 9.5d
@@ -1785,8 +1804,11 @@
 					count: 2
 					id: "3CA2DD868A5F9D2D"
 					item: {
+						components: {
+							"ftbquests:missing_item": "ars_nouveau:magebloom_crop"
+						}
 						count: 1
-						id: "ars_nouveau:magebloom_crop"
+						id: "ftbquests:missing_item"
 					}
 					random_bonus: 2
 					type: "item"
@@ -1800,7 +1822,7 @@
 			tasks: [{
 				count: 3L
 				id: "6CB12C3C6401287A"
-				item: { count: 1, id: "ars_nouveau:magebloom_crop" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:magebloom_crop" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 13.0d
@@ -1817,7 +1839,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "0DB8F107D55B420F"
-				item: { count: 1, id: "ars_nouveau:glyph_orbit" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_orbit" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.0d
@@ -1834,7 +1856,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "21C6D6FA46FCE9E9"
-				item: { count: 1, id: "ars_nouveau:glyph_sensitive" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_sensitive" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -1851,7 +1873,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "3282190E6DF860F4"
-				item: { count: 1, id: "ars_nouveau:glyph_decelerate" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_decelerate" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -1876,7 +1898,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "273385666F3DBB43"
-				item: { count: 1, id: "ars_nouveau:volcanic_sourcelink" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:volcanic_sourcelink" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 4.5d
@@ -1900,7 +1922,7 @@
 			]
 			tasks: [{
 				id: "2E649D2172E6D537"
-				item: { count: 1, id: "ars_nouveau:runic_chalk" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:runic_chalk" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 13.0d
@@ -1925,7 +1947,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "5018B75946EB5FA4"
-				item: { count: 1, id: "ars_nouveau:ritual_awakening" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_awakening" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 6.5d
@@ -1950,7 +1972,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "6CF702640DFC9FBA"
-				item: { count: 1, id: "ars_nouveau:ritual_flight" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_flight" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 8.5d
@@ -1975,7 +1997,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "5D3C989D159E191B"
-				item: { count: 1, id: "ars_nouveau:ritual_wilden_summon" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_wilden_summon" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 7.5d
@@ -2000,7 +2022,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "0577B2F9A78434A0"
-				item: { count: 1, id: "ars_nouveau:ritual_scrying" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_scrying" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -2025,7 +2047,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "7B9F88A9A5FAE5CB"
-				item: { count: 1, id: "ars_nouveau:ritual_binding" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:ritual_binding" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 9.0d
@@ -2042,7 +2064,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "496294EBE15C66AD"
-				item: { count: 1, id: "ars_nouveau:glyph_glide" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_glide" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.0d
@@ -2059,7 +2081,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "6EA660C81B613163"
-				item: { count: 1, id: "ars_nouveau:glyph_wind_shear" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_wind_shear" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -2076,7 +2098,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "598ED65E5C450F82"
-				item: { count: 1, id: "ars_nouveau:glyph_summon_undead" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_summon_undead" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 2.0d
@@ -2093,7 +2115,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "46FA84B093CC1151"
-				item: { count: 1, id: "ars_nouveau:glyph_linger" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_linger" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 4.0d
@@ -2110,7 +2132,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "5DA75E54FF1EFE89"
-				item: { count: 1, id: "ars_nouveau:glyph_evaporate" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_evaporate" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -2127,7 +2149,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "024EA8646EFADFF5"
-				item: { count: 1, id: "ars_nouveau:glyph_bounce" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_bounce" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -5.0d
@@ -2144,7 +2166,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "352317A2806A9855"
-				item: { count: 1, id: "ars_nouveau:glyph_sense_magic" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_sense_magic" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -2161,7 +2183,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "34C8EB5C0EEE98DD"
-				item: { count: 1, id: "ars_nouveau:glyph_name" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_name" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -2.0d
@@ -2178,7 +2200,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "7DCF09E4EFEC5D64"
-				item: { count: 1, id: "ars_nouveau:glyph_firework" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_firework" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -2195,7 +2217,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "12EA0487A7DD255B"
-				item: { count: 1, id: "ars_nouveau:glyph_toss" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:glyph_toss" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -2204,7 +2226,10 @@
 		{
 			dependencies: ["64D0E66CB4FBEC82"]
 			icon: {
-				id: "ars_nouveau:spell_parchment"
+				components: {
+					"ftbquests:missing_item": "ars_nouveau:spell_parchment"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "5CFBA24B3E0CDEDD"
 			rewards: [{
@@ -2223,22 +2248,15 @@
 			dependencies: ["64D0E66CB4FBEC82"]
 			icon: {
 				components: {
-					"minecraft:potion_contents": {
-						potion: "ars_nouveau:mana_regen_potion"
-					}
+					"ftbquests:missing_item": "minecraft:potion"
 				}
-				id: "minecraft:potion"
+				id: "ftbquests:missing_item"
 			}
 			id: "6B511C8B572E8940"
 			rewards: [
 				{
 					id: "31255CD8D6C186BF"
 					item: {
-						components: {
-							"minecraft:potion_contents": {
-								potion: "ars_nouveau:mana_regen_potion"
-							}
-						}
 						count: 1
 						id: "minecraft:lingering_potion"
 					}
@@ -2264,8 +2282,11 @@
 				{
 					id: "74A1C83DF8199111"
 					item: {
+						components: {
+							"ftbquests:missing_item": "ars_nouveau:source_gem"
+						}
 						count: 1
-						id: "ars_nouveau:source_gem"
+						id: "ftbquests:missing_item"
 					}
 					random_bonus: 2
 					type: "item"
@@ -2287,7 +2308,7 @@
 			tasks: [{
 				count: 2L
 				id: "1344731C799303A3"
-				item: { count: 1, id: "ars_nouveau:source_gem" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:source_gem" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.0d
@@ -2304,7 +2325,7 @@
 			}]
 			tasks: [{
 				id: "07469C1ABB23F686"
-				item: { count: 1, id: "ars_nouveau:dowsing_rod" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:dowsing_rod" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -2329,7 +2350,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "33072A37F4A28A77"
-				item: { count: 1, id: "ars_nouveau:vitalic_sourcelink" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:vitalic_sourcelink" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 4.0d
@@ -2354,7 +2375,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "2D08E66F6D607676"
-				item: { count: 1, id: "ars_nouveau:alchemical_sourcelink" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:alchemical_sourcelink" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.0d
@@ -2379,7 +2400,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "3F5621FA53258210"
-				item: { count: 1, id: "ars_nouveau:mycelial_sourcelink" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:mycelial_sourcelink" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 2.0d
@@ -2404,7 +2425,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "7CEAACDBB77206CC"
-				item: { count: 1, id: "ars_nouveau:agronomic_sourcelink" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:agronomic_sourcelink" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 1.5d
@@ -2429,7 +2450,7 @@
 			tasks: [{
 				count: 8L
 				id: "03EB390E79866058"
-				item: { count: 1, id: "ars_nouveau:sourcestone" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:sourcestone" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 5.199999999999999d
@@ -2442,8 +2463,11 @@
 				{
 					id: "19F2CD6C0B18C66F"
 					item: {
+						components: {
+							"ftbquests:missing_item": "ars_nouveau:spell_parchment"
+						}
 						count: 1
-						id: "ars_nouveau:spell_parchment"
+						id: "ftbquests:missing_item"
 					}
 					random_bonus: 1
 					type: "item"
@@ -2456,7 +2480,7 @@
 			]
 			tasks: [{
 				id: "5D09025968ED4E34"
-				item: { count: 1, id: "ars_nouveau:spell_parchment" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:spell_parchment" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 13.0d
@@ -2481,7 +2505,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "259C1D84AD3996AF"
-				item: { count: 1, id: "ars_nouveau:dominion_wand" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:dominion_wand" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 10.5d
@@ -2506,7 +2530,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "307E429DCDA2A0BC"
-				item: { count: 1, id: "ars_nouveau:enchanters_sword" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:enchanters_sword" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 10.5d
@@ -2531,7 +2555,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "571B04DAC6DAFDAE"
-				item: { count: 1, id: "ars_nouveau:enchanters_shield" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:enchanters_shield" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 11.0d
@@ -2556,7 +2580,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "4B4A171486A31360"
-				item: { count: 1, id: "ars_nouveau:enchanters_mirror" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:enchanters_mirror" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 10.5d
@@ -2581,7 +2605,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "7F425E0F613F8B23"
-				item: { count: 1, id: "ars_nouveau:spell_bow" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:spell_bow" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 10.0d
@@ -2607,12 +2631,12 @@
 			tasks: [
 				{
 					id: "78C9026D8627D7B7"
-					item: { count: 1, id: "ars_nouveau:jar_of_light" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:jar_of_light" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "1ED244E1CC75D358"
-					item: { count: 1, id: "ars_nouveau:void_jar" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:void_jar" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 			]
@@ -2639,12 +2663,12 @@
 			tasks: [
 				{
 					id: "3F1F4C069415D13A"
-					item: { count: 1, id: "ars_nouveau:ring_of_lesser_discount" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:ring_of_lesser_discount" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "0A4973ED77865904"
-					item: { count: 1, id: "ars_nouveau:ring_of_greater_discount" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:ring_of_greater_discount" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 			]
@@ -2670,7 +2694,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "28D8B81E947FCB97"
-				item: { count: 1, id: "ars_nouveau:belt_of_unstable_gifts" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:belt_of_unstable_gifts" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 11.5d
@@ -2695,7 +2719,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "470AEF18D37A0535"
-				item: { count: 1, id: "ars_nouveau:belt_of_levitation" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:belt_of_levitation" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 11.0d
@@ -2721,12 +2745,12 @@
 			tasks: [
 				{
 					id: "737E14DCCDDAC4D9"
-					item: { count: 1, id: "ars_nouveau:amulet_of_mana_boost" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:amulet_of_mana_boost" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "06AFF105FACF7961"
-					item: { count: 1, id: "ars_nouveau:amulet_of_mana_regen" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:amulet_of_mana_regen" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 			]
@@ -2752,7 +2776,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "3CF6151060ADB889"
-				item: { count: 1, id: "ars_nouveau:wand" }
+				item: { components: { "ftbquests:missing_item": "ars_nouveau:wand" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 10.5d

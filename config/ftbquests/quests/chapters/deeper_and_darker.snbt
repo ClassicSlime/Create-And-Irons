@@ -4,7 +4,10 @@
 	filename: "deeper_and_darker"
 	group: "5A4775CCD6D26C80"
 	icon: {
-		id: "deeperdarker:heart_of_the_deep"
+		components: {
+			"ftbquests:missing_item": "deeperdarker:heart_of_the_deep"
+		}
+		id: "ftbquests:missing_item"
 	}
 	id: "13B172FA69904D9F"
 	images: [ ]
@@ -57,8 +60,11 @@
 					count: 2
 					id: "2041952666E40A74"
 					item: {
+						components: {
+							"ftbquests:missing_item": "deeperdarker:warden_carapace"
+						}
 						count: 1
-						id: "deeperdarker:warden_carapace"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -89,7 +95,7 @@
 			shape: "heart"
 			tasks: [{
 				id: "155AE69BDDF7E6CB"
-				item: { count: 1, id: "deeperdarker:heart_of_the_deep" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:heart_of_the_deep" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.5d
@@ -145,7 +151,10 @@
 			hide_dependent_lines: true
 			hide_until_deps_complete: true
 			icon: {
-				id: "deeperdarker:blooming_sculk_stone"
+				components: {
+					"ftbquests:missing_item": "deeperdarker:blooming_sculk_stone"
+				}
+				id: "ftbquests:missing_item"
 			}
 			icon_scale: 1.3d
 			id: "68446510A1B0D9B8"
@@ -193,7 +202,10 @@
 			hide_dependent_lines: true
 			hide_until_deps_complete: true
 			icon: {
-				id: "deeperdarker:echo_soil"
+				components: {
+					"ftbquests:missing_item": "deeperdarker:echo_soil"
+				}
+				id: "ftbquests:missing_item"
 			}
 			icon_scale: 1.3d
 			id: "59AF80E8EE17C769"
@@ -217,7 +229,10 @@
 			hide_dependent_lines: true
 			hide_until_deps_complete: true
 			icon: {
-				id: "deeperdarker:gloomy_sculk"
+				components: {
+					"ftbquests:missing_item": "deeperdarker:gloomy_sculk"
+				}
+				id: "ftbquests:missing_item"
 			}
 			icon_scale: 1.3d
 			id: "3CF2DFB7F0CE065B"
@@ -247,8 +262,11 @@
 				count: 3
 				id: "725098CC4A25CB34"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:sculk_bone"
+					}
 					count: 1
-					id: "deeperdarker:sculk_bone"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -298,8 +316,11 @@
 				count: 2
 				id: "2387BBC5985E4AAC"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:soul_dust"
+					}
 					count: 1
-					id: "deeperdarker:soul_dust"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -341,8 +362,11 @@
 				count: 3
 				id: "0EE10597C32AECD8"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:resonarium"
+					}
 					count: 1
-					id: "deeperdarker:resonarium"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -386,15 +410,18 @@
 			rewards: [{
 				id: "298CAFDC37B67E91"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:warden_upgrade_smithing_template"
+					}
 					count: 1
-					id: "deeperdarker:warden_upgrade_smithing_template"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			shape: "diamond"
 			tasks: [{
 				id: "0A540C96CCE078F2"
-				item: { count: 1, id: "deeperdarker:warden_upgrade_smithing_template" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:warden_upgrade_smithing_template" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -5.5d
@@ -404,7 +431,10 @@
 			dependencies: ["0450060852F290CA"]
 			hide_dependent_lines: true
 			icon: {
-				id: "deeperdarker:sculk_stone_tiles"
+				components: {
+					"ftbquests:missing_item": "deeperdarker:sculk_stone_tiles"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "35629CB10DBDE340"
 			rewards: [
@@ -429,8 +459,11 @@
 				{
 					id: "2A4CBC206C58A36F"
 					item: {
+						components: {
+							"ftbquests:missing_item": "deeperdarker:heart_of_the_deep"
+						}
 						count: 1
-						id: "deeperdarker:heart_of_the_deep"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -465,7 +498,7 @@
 			shape: "square"
 			tasks: [{
 				id: "06B95C293D282038"
-				item: { count: 1, id: "deeperdarker:sculk_transmitter" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:sculk_transmitter" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -497,22 +530,22 @@
 			tasks: [
 				{
 					id: "04C8F8C2632F116F"
-					item: { count: 1, id: "deeperdarker:warden_helmet" }
+					item: { components: { "ftbquests:missing_item": "deeperdarker:warden_helmet" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "05E24505D83DF602"
-					item: { count: 1, id: "deeperdarker:warden_chestplate" }
+					item: { components: { "ftbquests:missing_item": "deeperdarker:warden_chestplate" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "15CB60DCC9EB6755"
-					item: { count: 1, id: "deeperdarker:warden_leggings" }
+					item: { components: { "ftbquests:missing_item": "deeperdarker:warden_leggings" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "216789181B7685CC"
-					item: { count: 1, id: "deeperdarker:warden_boots" }
+					item: { components: { "ftbquests:missing_item": "deeperdarker:warden_boots" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 			]
@@ -544,7 +577,7 @@
 			shape: "square"
 			tasks: [{
 				id: "453D4F29D23FC118"
-				item: { count: 1, id: "deeperdarker:soul_elytra" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:soul_elytra" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -6.5d
@@ -557,14 +590,17 @@
 				count: 10
 				id: "16772EBFE93C5462"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:blooming_stem"
+					}
 					count: 1
-					id: "deeperdarker:blooming_stem"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "6766B01814BE6296"
-				item: { count: 1, id: "deeperdarker:blooming_stem" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:blooming_stem" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -5.0d
@@ -578,8 +614,11 @@
 					count: 4
 					id: "404C7CE996A05300"
 					item: {
+						components: {
+							"ftbquests:missing_item": "deeperdarker:echo_sapling"
+						}
 						count: 1
-						id: "deeperdarker:echo_sapling"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -587,15 +626,18 @@
 					count: 8
 					id: "75701808FDDDDEE9"
 					item: {
+						components: {
+							"ftbquests:missing_item": "deeperdarker:echo_log"
+						}
 						count: 1
-						id: "deeperdarker:echo_log"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
 			]
 			tasks: [{
 				id: "3145BBDC2A9E7774"
-				item: { count: 1, id: "deeperdarker:echo_log" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:echo_log" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -613,8 +655,11 @@
 					count: 12
 					id: "3F4F720A99397326"
 					item: {
+						components: {
+							"ftbquests:missing_item": "deeperdarker:cobbled_sculk_stone"
+						}
 						count: 1
-						id: "deeperdarker:cobbled_sculk_stone"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -622,15 +667,18 @@
 					count: 12
 					id: "1EFD67FAF8C6D7E8"
 					item: {
+						components: {
+							"ftbquests:missing_item": "deeperdarker:sculk_stone"
+						}
 						count: 1
-						id: "deeperdarker:sculk_stone"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
 			]
 			tasks: [{
 				id: "5C838B001FB2AF7B"
-				item: { count: 1, id: "deeperdarker:cobbled_sculk_stone" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:cobbled_sculk_stone" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -5.0d
@@ -644,8 +692,11 @@
 					count: 12
 					id: "20958EF59713F128"
 					item: {
+						components: {
+							"ftbquests:missing_item": "deeperdarker:gloomslate"
+						}
 						count: 1
-						id: "deeperdarker:gloomslate"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -653,15 +704,18 @@
 					count: 12
 					id: "38081657884886C1"
 					item: {
+						components: {
+							"ftbquests:missing_item": "deeperdarker:cobbled_gloomslate"
+						}
 						count: 1
-						id: "deeperdarker:cobbled_gloomslate"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
 			]
 			tasks: [{
 				id: "252FC5FF328914BF"
-				item: { count: 1, id: "deeperdarker:cobbled_gloomslate" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:cobbled_gloomslate" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -674,14 +728,17 @@
 				count: 10
 				id: "2E144C8CD16B73CA"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:glowing_roots"
+					}
 					count: 1
-					id: "deeperdarker:glowing_roots"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "1629F5F959005971"
-				item: { count: 1, id: "deeperdarker:glowing_roots" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:glowing_roots" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.5d
@@ -694,14 +751,17 @@
 				count: 16
 				id: "4D7DE064EA8C6C1B"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:bloom_berries"
+					}
 					count: 1
-					id: "deeperdarker:bloom_berries"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "5BF361D8D188DADD"
-				item: { count: 1, id: "deeperdarker:bloom_berries" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:bloom_berries" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.5d
@@ -717,14 +777,17 @@
 				count: 8
 				id: "3E082D368E2F2A43"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:sculk_vines"
+					}
 					count: 1
-					id: "deeperdarker:sculk_vines"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "67D74575D2974053"
-				item: { count: 1, id: "deeperdarker:sculk_vines" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:sculk_vines" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -5.5d
@@ -737,14 +800,17 @@
 				count: 10
 				id: "01B581ABEB1B68C9"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:ice_lily"
+					}
 					count: 1
-					id: "deeperdarker:ice_lily"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "2ED9DE6BBECA9CDA"
-				item: { count: 1, id: "deeperdarker:ice_lily" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:ice_lily" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 2.5d
@@ -757,14 +823,17 @@
 				count: 16
 				id: "470C1DACF1769DCD"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:blooming_moss_block"
+					}
 					count: 1
-					id: "deeperdarker:blooming_moss_block"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "78D21547807C806C"
-				item: { count: 1, id: "deeperdarker:blooming_moss_block" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:blooming_moss_block" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 2.0d
@@ -777,14 +846,17 @@
 				count: 12
 				id: "608E0BB027254CF7"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:echo_soil"
+					}
 					count: 1
-					id: "deeperdarker:echo_soil"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "4CD08B1B3A888A91"
-				item: { count: 1, id: "deeperdarker:echo_soil" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:echo_soil" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.0d
@@ -797,14 +869,17 @@
 				count: 20
 				id: "7620B7F4774E65B7"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:sculk_gleam"
+					}
 					count: 1
-					id: "deeperdarker:sculk_gleam"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "07E4391152889001"
-				item: { count: 1, id: "deeperdarker:sculk_gleam" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:sculk_gleam" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 2.0d
@@ -813,7 +888,10 @@
 		{
 			dependencies: ["3CF2DFB7F0CE065B"]
 			icon: {
-				id: "deeperdarker:gloomy_geyser"
+				components: {
+					"ftbquests:missing_item": "deeperdarker:gloomy_geyser"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "39100B3867E9C01E"
 			rewards: [{
@@ -847,14 +925,17 @@
 				count: 6
 				id: "0508F27C62F18B2A"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:gloomy_cactus"
+					}
 					count: 1
-					id: "deeperdarker:gloomy_cactus"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "104E090D168D4CE0"
-				item: { count: 1, id: "deeperdarker:gloomy_cactus" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:gloomy_cactus" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 1.5d
@@ -867,14 +948,17 @@
 				count: 12
 				id: "33B6DCD6ED508C53"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:crystallized_amber"
+					}
 					count: 1
-					id: "deeperdarker:crystallized_amber"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "1495CBC301805E29"
-				item: { count: 1, id: "deeperdarker:crystallized_amber" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:crystallized_amber" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.0d
@@ -905,7 +989,7 @@
 			shape: "square"
 			tasks: [{
 				id: "732F7BD2686546F9"
-				item: { count: 1, id: "deeperdarker:sonorous_staff" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:sonorous_staff" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -3.5d
@@ -918,14 +1002,17 @@
 				count: 8
 				id: "7822171456D926ED"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:sculk_tendrils"
+					}
 					count: 1
-					id: "deeperdarker:sculk_tendrils"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "632FDFBFD89DD9F9"
-				item: { count: 1, id: "deeperdarker:sculk_tendrils" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:sculk_tendrils" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -3.5d
@@ -938,15 +1025,18 @@
 				count: 10
 				id: "4AE84DFE82B6C2E5"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:soundproof_glass"
+					}
 					count: 1
-					id: "deeperdarker:soundproof_glass"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "4655017104923660"
-				item: { count: 1, id: "deeperdarker:soundproof_glass" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:soundproof_glass" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 1.0d
@@ -955,7 +1045,10 @@
 		{
 			dependencies: ["0450060852F290CA"]
 			icon: {
-				id: "deeperdarker:sculk_jaw"
+				components: {
+					"ftbquests:missing_item": "deeperdarker:sculk_jaw"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "67D38E8A57949B34"
 			rewards: [{
@@ -982,7 +1075,10 @@
 			dependencies: ["35629CB10DBDE340"]
 			hide_dependent_lines: true
 			icon: {
-				id: "deeperdarker:stalker_spawn_egg"
+				components: {
+					"ftbquests:missing_item": "deeperdarker:stalker_spawn_egg"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "4D57A07592AED307"
 			rewards: [{
@@ -1010,8 +1106,11 @@
 					count: 16
 					id: "521236086E845B78"
 					item: {
+						components: {
+							"ftbquests:missing_item": "deeperdarker:grime_ball"
+						}
 						count: 1
-						id: "deeperdarker:grime_ball"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -1019,8 +1118,11 @@
 					count: 8
 					id: "11921E5894F79ED8"
 					item: {
+						components: {
+							"ftbquests:missing_item": "deeperdarker:grime_brick"
+						}
 						count: 1
-						id: "deeperdarker:grime_brick"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -1028,7 +1130,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "25EF0FD904FA20FF"
-				item: { count: 1, id: "deeperdarker:grime_ball" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:grime_ball" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -3.0d
@@ -1063,8 +1165,11 @@
 			rewards: [{
 				id: "73913D21239C5722"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:soul_dust"
+					}
 					count: 1
-					id: "deeperdarker:soul_dust"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -1090,15 +1195,18 @@
 			rewards: [{
 				id: "689C06246F3E2BF1"
 				item: {
+					components: {
+						"ftbquests:missing_item": "deeperdarker:reinforced_echo_shard"
+					}
 					count: 1
-					id: "deeperdarker:reinforced_echo_shard"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
 			shape: "diamond"
 			tasks: [{
 				id: "1D876AD04C9038EF"
-				item: { count: 1, id: "deeperdarker:reinforced_echo_shard" }
+				item: { components: { "ftbquests:missing_item": "deeperdarker:reinforced_echo_shard" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.5d

@@ -257,22 +257,22 @@
 			tasks: [
 				{
 					id: "0DC02CF560E9CAC9"
-					item: { count: 1, id: "ars_nouveau:sorcerer_hood" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:sorcerer_hood" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "2A9783D63B17A26D"
-					item: { count: 1, id: "ars_nouveau:sorcerer_robes" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:sorcerer_robes" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "0C0FF4C09FB5A063"
-					item: { count: 1, id: "ars_nouveau:sorcerer_leggings" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:sorcerer_leggings" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "432723521C2D00D7"
-					item: { count: 1, id: "ars_nouveau:sorcerer_boots" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:sorcerer_boots" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 			]
@@ -290,22 +290,22 @@
 			tasks: [
 				{
 					id: "0D3FD3E0CAA1F9E3"
-					item: { count: 1, id: "ars_nouveau:arcanist_hood" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:arcanist_hood" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "0B87556E53C8FF14"
-					item: { count: 1, id: "ars_nouveau:arcanist_robes" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:arcanist_robes" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "076C751559F490C7"
-					item: { count: 1, id: "ars_nouveau:arcanist_leggings" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:arcanist_leggings" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "54849AAF0228C5BE"
-					item: { count: 1, id: "ars_nouveau:arcanist_boots" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:arcanist_boots" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 			]
@@ -323,22 +323,22 @@
 			tasks: [
 				{
 					id: "2751FA805F188BE5"
-					item: { count: 1, id: "ars_nouveau:battlemage_hood" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:battlemage_hood" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "27A38CE1BE7B26E3"
-					item: { count: 1, id: "ars_nouveau:battlemage_robes" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:battlemage_robes" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "402A5596AE85BF68"
-					item: { count: 1, id: "ars_nouveau:battlemage_leggings" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:battlemage_leggings" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "72661B7CD2C88A27"
-					item: { count: 1, id: "ars_nouveau:battlemage_boots" }
+					item: { components: { "ftbquests:missing_item": "ars_nouveau:battlemage_boots" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 			]
@@ -347,7 +347,10 @@
 		}
 		{
 			icon: {
-				id: "iceandfire:armor_copper_metal_boots"
+				components: {
+					"ftbquests:missing_item": "iceandfire:armor_copper_metal_boots"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "50B127137AA9E660"
 			optional: true
@@ -359,22 +362,22 @@
 			tasks: [
 				{
 					id: "0F6D48EB68E92433"
-					item: { count: 1, id: "iceandfire:armor_copper_metal_boots" }
+					item: { components: { "ftbquests:missing_item": "iceandfire:armor_copper_metal_boots" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "3C000AECB9285AAB"
-					item: { count: 1, id: "iceandfire:armor_copper_metal_leggings" }
+					item: { components: { "ftbquests:missing_item": "iceandfire:armor_copper_metal_leggings" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "741560A5E31853AD"
-					item: { count: 1, id: "iceandfire:armor_copper_metal_chestplate" }
+					item: { components: { "ftbquests:missing_item": "iceandfire:armor_copper_metal_chestplate" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "7B5FF30CC59B3802"
-					item: { count: 1, id: "iceandfire:armor_copper_metal_helmet" }
+					item: { components: { "ftbquests:missing_item": "iceandfire:armor_copper_metal_helmet" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 			]

@@ -9,7 +9,7 @@
       {
         "type": "BIOME_TAG",
         "negate": false,
-        "value": "c:is_plains"
+        "value": "alexsmobs:is_plains"
       },
       {
         "type": "BIOME_TAG",

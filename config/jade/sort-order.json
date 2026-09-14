@@ -1,11 +1,5 @@
 {
-  "apothic_spawners:spawner": null,
-  "ars_nouveau:mob_jar": null,
-  "balm:jade": null,
-  "iceandfire:dragon": null,
-  "iceandfire:dragon_egg_block": null,
-  "iceandfire:dragon_egg_entity": null,
-  "iceandfire:multipart": null,
+  "createthrusters:thruster_resources": null,
   "jade:block_face": null,
   "jade:block_properties": null,
   "jade:block_states": null,
@@ -66,13 +60,8 @@
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
-  "quark:oretoise_eating_cooldown": null,
   "sable_player_ragdoll:mob_ragdoll_part": null,
   "sable_player_ragdoll:mob_ragdoll_part_data": null,
   "sable_player_ragdoll:ragdoll_part": null,
-  "sable_player_ragdoll:ragdoll_part_data": null,
-  "supplementaries:hat_stand": null,
-  "supplementaries:present": null,
-  "supplementaries:safe": null,
-  "waystones:waystone": null
+  "sable_player_ragdoll:ragdoll_part_data": null
 }

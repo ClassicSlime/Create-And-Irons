@@ -3,11 +3,11 @@ filename = "reliquified_artifacts-1.21.1-1.0.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "00ad43d5a1aa287fd0084bc3b48546821494ff80"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/GnU07giL/versions/x2qoJkgq/reliquified_artifacts-1.21.1-1.0.8.jar"
+hash-format = "sha512"
+hash = "2885b9f4c262f10c9500d9525cd4f82174a462348c4b946627d21a97303469de302c4a487066313a4904d3abb46a7a3433e0deb9855b6d04112a967b1ce947a1"
 
 [update]
-[update.curseforge]
-file-id = 8703661
-project-id = 1100379
+[update.modrinth]
+mod-id = "GnU07giL"
+version = "x2qoJkgq"

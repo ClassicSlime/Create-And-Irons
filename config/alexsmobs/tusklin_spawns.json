@@ -16,12 +16,12 @@
       {
         "type": "BIOME_TAG",
         "negate": false,
-        "value": "c:is_snowy"
+        "value": "alexsmobs:is_snowy"
       },
       {
         "type": "BIOME_TAG",
         "negate": false,
-        "value": "c:is_plains"
+        "value": "alexsmobs:is_plains"
       }
     ],
     [
