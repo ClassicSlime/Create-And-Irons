@@ -2192,11 +2192,6 @@ hash = "7c5aa4687ff34e1ffe62e0e2570e38d40dbedc8f0d45fadcb8f9c3252f9cf677"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics.pw.toml"
-hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
-metafile = true
-
-[[files]]
 file = "mods/create-aerowarptics.pw.toml"
 hash = "5b7b705d191d48c80f01917e6d0a2676176fab130a8fa775049320aa8f289c26"
 metafile = true
