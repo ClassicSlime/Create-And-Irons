@@ -2919,6 +2919,11 @@ hash = "a28e1e4ee70e807f779a8507b709cb713b7da4a854e195e44d01aa43f4ae56ef"
 metafile = true
 
 [[files]]
+file = "mods/nirvana.pw.toml"
+hash = "600cb587148cd482a82ab297b14e90313483c617587c9cbbd04b435a2c28e858"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
 metafile = true
