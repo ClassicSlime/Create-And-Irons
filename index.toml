@@ -2187,6 +2187,11 @@ hash = "5e4e022fe3c821ca19f30cb70300c5e08b62c689ddba7e7a9b696a4bdb5ceee4"
 metafile = true
 
 [[files]]
+file = "mods/coasters-magnetized.pw.toml"
+hash = "4b6d93953993eaa3fd1df4c4c1b32c602840cb23bf830ac2658ed7d89547c559"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-climbable-ropes.pw.toml"
 hash = "ea9c25f9425fcc035abeb460aeee7ad8151e2389b1273fd029fe8d997da3c37e"
 metafile = true
@@ -2232,6 +2237,11 @@ hash = "ee18c9b942d0f7902f387ebd144f998f564975b8258e05eb589ecea0a3f5dc17"
 metafile = true
 
 [[files]]
+file = "mods/create-coasters-simulated.pw.toml"
+hash = "d5aad6415413aa777ed89ae55912f33c86757321c7c16c8392ce2e1429b920d5"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "6ac362d60bc8b13e03a5b6b9cdf9c7676f65d3e89e87c66f18514e7ee164cdb0"
 metafile = true
@@ -2267,6 +2277,11 @@ hash = "69fc8e5bb97d5ed685c2344572caa78498beb58cda9ab4735076426f0b555ea5"
 metafile = true
 
 [[files]]
+file = "mods/create-tracks+.pw.toml"
+hash = "4c66a17f214bd6ab6b9e4dbbfb105118fef80f11e29793c3e1df1edd6f30e296"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
@@ -2284,6 +2299,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
+metafile = true
+
+[[files]]
+file = "mods/dap-ur-homies.pw.toml"
+hash = "19ff928a1c92265070c2795f21f5d6ee91c8a25beb9e9fe220cee5479317ba5d"
 metafile = true
 
 [[files]]
@@ -2327,6 +2347,11 @@ hash = "6aba9d20ceaf2f4f3368734cdfc37924b6fdf19df3f6631d68402490289cfd54"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "d8b1aa8f9d9bcde610fafc4780d2e7614c05f6f25d74978714745ee060b5fe39"
 metafile = true
@@ -2367,8 +2392,13 @@ hash = "c21c2308684a75cda7dd9d557d129c9f89f49be527da3d5aa675fff444c11f5e"
 metafile = true
 
 [[files]]
+file = "mods/fundamental-principles-irons-spells-addon.pw.toml"
+hash = "b4737a129c515297466d2a6b9b3de29cbb8ce86999055e0d0335ea11dd2fc227"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
-hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
+hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
 
 [[files]]
@@ -2499,6 +2529,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "a80d243759a5998d1f61cab61a9769526c21e1a9ac2f328ec1f213bb97311bfe"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "b58d160c5d2f7405e8e334f574c79138dcfcf80144d6e2b591d2c4748118553d"
 metafile = true
 
 [[files]]
