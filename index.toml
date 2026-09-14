@@ -2522,11 +2522,6 @@ hash = "10b3d772c45984a274080081c28384218b326b5e5d890d2a13df0e7f6f031fe6"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "8f47f534372061308021b082fe67802a0bb6cb323e1dbbeb911c461b4cfe0518"
-metafile = true
-
-[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "5d2ebe2ac7d9436d1c5df0fbb2a1b975196d41a3090065b3c569aaac4fc11430"
 metafile = true
