@@ -2669,6 +2669,11 @@ hash = "69fc8e5bb97d5ed685c2344572caa78498beb58cda9ab4735076426f0b555ea5"
 metafile = true
 
 [[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "f82cdd570cb4f6bd9b87a6a30c5e5ecc23125dfcecc715d4950a17301de8c58a"
+metafile = true
+
+[[files]]
 file = "mods/create-tracks+.pw.toml"
 hash = "4c66a17f214bd6ab6b9e4dbbfb105118fef80f11e29793c3e1df1edd6f30e296"
 metafile = true
