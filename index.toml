@@ -9,6 +9,10 @@ file = "config/CT_tablet_apps.json"
 hash = "f4e28b949db13e7aefe6dbd026e132aebfbdd01c1ec5d601151672913388d321"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "7a371394b6c33fb1943b8a61fde7ca9166a18bf38d98c4470b9b0011547503b3"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -214,7 +218,7 @@ hash = "1ff86fe2d701ae9ee1cd775c077b9f6edb6184144c3505ffc6312f3d71e9658c"
 
 [[files]]
 file = "config/bosses_of_mass_destruction.json5"
-hash = "a4522dbaee6d5d4532a3b55906a2a2740424be53ec215c70fbb8931165e81121"
+hash = "7564bd719243a64b1d00424eb4602b85415e578905de5a9587f5f10ff2427d1f"
 
 [[files]]
 file = "config/cataclysm-client.toml"
@@ -243,6 +247,10 @@ hash = "35cd0bcbc4b906d318ab55dc8c7cef22c47289042adc21a5511914a0d6620288"
 [[files]]
 file = "config/climbable_ropes-server.toml"
 hash = "54c68b969f18965c7fd3c57aa147ef659a89187cedf73d48fb5bfb598ce81242"
+
+[[files]]
+file = "config/coastersmagnetized-common.toml"
+hash = "22d78144684b9cafc1c32b7cfb0dcfd8c3038de5a17ac3e352b6e5c8e94c9125"
 
 [[files]]
 file = "config/codxlib.json"
@@ -390,7 +398,7 @@ hash = "a73371c1ba2484feb3937b988e4ba63e0c2263a73ca54757cc485132efed023b"
 
 [[files]]
 file = "config/cubes_without_borders.json"
-hash = "99b15b0a069e6d9f3e5a6267e128c1bec50e8205dcf6baa7739dea79ea999ff2"
+hash = "fc23de68ad82636995de4b3da07d4732767e51d4f8c048a0749f42958b8afa47"
 
 [[files]]
 file = "config/curios-client.toml"
@@ -494,7 +502,7 @@ hash = "91299501c49e2b907439a77189e031842b24c313aca4ac3fc301c34b63e4ae33"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "ae0a43b789ea9166d406f49c4ba48031f61ead89ae659ec5e90c836ffa13a60e"
+hash = "17a943528c1db0e9632ede1a119235a1d1ddbefbf245ba7e61e48ad71e17b817"
 
 [[files]]
 file = "config/farmers_spell-common.toml"
@@ -513,8 +521,12 @@ file = "config/ferritecore-mixin.toml"
 hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
 
 [[files]]
-file = "config/flywheel-client.toml"
+file = "config/flywheel-client-1.toml.bak"
 hash = "49414280350d38397bb99dc9f721e07e8d3d17920094455f08ae10079d460d9a"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "9b9525f6baadc8312819ae21ad8688b20fb887e0e2bec4bceece4cbb296196b8"
 
 [[files]]
 file = "config/fml.toml"
@@ -582,7 +594,7 @@ hash = "61b37c30c24d841f4d993e933df0d60f198fbcf06671a87a73b9a23f8434858d"
 
 [[files]]
 file = "config/fundamentalism/spell_categories.json"
-hash = "87cd2b4eda3bf9320a3a76db63c26908c9224316858d742c8ff8169b8d2c08ac"
+hash = "df3d3077c6f5fe0d04f457dca6fedc3e637f2941bd8b9a9dd3477fc85f735544"
 
 [[files]]
 file = "config/gadgetsngizmos-server.toml"
@@ -610,7 +622,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "a59fba83508e9bdcdac864f7a536457530dfdb49c1a43c09aba5e1e4d50a03ff"
+hash = "727e0ec2e7248b0297713a13f277779484822009d17c72ce75aaaf418c913329"
 
 [[files]]
 file = "config/ironfurnaces-common.toml"
@@ -638,7 +650,7 @@ hash = "60433b671b895f0de388c1baa7aeb7c1dcd2dbd93622e0f3d7128b77daf8be11"
 
 [[files]]
 file = "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
-hash = "928eae1cb5cfec3729c083305986ec694dfc346c537619187efc4af0d9ce661c"
+hash = "fbe7f703b3e8687c6a9d75527c0050568ca7336ac0fc9fc5e70932d2d2903a01"
 
 [[files]]
 file = "config/iteminteractions-client.toml"
@@ -742,7 +754,7 @@ hash = "eb7e9906d126543f03c2257ca98efa4b845d1e7479dc8b069a12b194c86debcf"
 
 [[files]]
 file = "config/pointblank-common.toml"
-hash = "860f425a4364fcb63faffff05ad202c85fe333ac840c6ec74f76c46617ed246b"
+hash = "dd69e514967f7592c06e99f260101d52866ef019060af328238e0058841b59da"
 
 [[files]]
 file = "config/pointblank-items.toml"
@@ -857,6 +869,10 @@ file = "config/simulated-server.toml"
 hash = "fbcf40465f120ceac12fdc297e8e196ca2774936406404165402d94009f0e53c"
 
 [[files]]
+file = "config/simulatedcoasters-common.toml"
+hash = "eb79717404d7274a5bf0c02d1a12c49a68df6f1802180bea557bd44b51a16951"
+
+[[files]]
 file = "config/skinlayers.json"
 hash = "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166"
 
@@ -934,7 +950,7 @@ hash = "222ca20f214d032e45c5db5408667974102cd17ae109d130b37d4921348cdca4"
 
 [[files]]
 file = "config/streamsreflowing-common.toml"
-hash = "825e0378ec69f76344da5a651a48144824c25fd28c4d72b1392b0eacb2f4df9a"
+hash = "536612de8aed38e953e3fd735b72cfa80812064b5a0c89206a294cb4b15449df"
 
 [[files]]
 file = "config/streamsreflowing/bank_features/.withdrew_2_13_2"
@@ -1127,6 +1143,62 @@ hash = "695d96a8566edc76411d5b54e5a2da6a5940e908416665527766d312c047e061"
 [[files]]
 file = "config/wind_spellbooks-server.toml"
 hash = "69326a7e0822a91847833f2e7b130e0f8c150195338024c8e71c38986c81d02a"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "53b57c6a7bc117d6c2bc7a1fa8f1e5cbc963946d10f0de22fa55d2cb0929285e"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "config/xaerohud.txt"
@@ -2127,6 +2199,11 @@ hash = "bf44250c3eb8a91984562763540a3016583b965810b609182596f258a2d35431"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs(1.21.1).pw.toml"
+hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
@@ -2189,6 +2266,11 @@ metafile = true
 [[files]]
 file = "mods/cinematic-cataclysm.pw.toml"
 hash = "5e4e022fe3c821ca19f30cb70300c5e08b62c689ddba7e7a9b696a4bdb5ceee4"
+metafile = true
+
+[[files]]
+file = "mods/citadel-(1.21.1-port).pw.toml"
+hash = "80d7af83c244304212b8d95ab2e3525b3eeae02f31e41474c2cdec2f4d370723"
 metafile = true
 
 [[files]]
@@ -2422,6 +2504,11 @@ hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "391f5b0b0fcae3ce77be6ab211435228faec79cb92c50d69471c52ba36b139d6"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
 metafile = true
@@ -2522,6 +2609,11 @@ hash = "a28e1e4ee70e807f779a8507b709cb713b7da4a854e195e44d01aa43f4ae56ef"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "90ad1eb32c492fd76dc362f8b017e8ca848fee063cafb3ccac30d32f09cbdbaa"
 metafile = true
@@ -2587,6 +2679,11 @@ hash = "9d237ba6802b662f712d357e47f8291e6b3a67ec505a5133be678b825eda96ca"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "985a99f7465b68e43b98f3dbe1081b7113d957c7926a8caab163503528910f42"
 metafile = true
@@ -2614,6 +2711,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "8532de1bebd0adbaefe89aead1c038e6449e5b7e8f4a8d8663a6f2555954e063"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "860d3b3e2c407980ece69e51896fb5e2e1ffcdb63b6956d440f331cf73777c83"
 metafile = true
 
 [[files]]
@@ -2652,6 +2754,11 @@ hash = "6bb9455448532ad9a4cf782af982e42762f9bcc5ce33bfe219ff9fb258953434"
 metafile = true
 
 [[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "20d767f7f803fd43e7b539046878bf97a27458595a1beff0b28002aca1b671de"
+metafile = true
+
+[[files]]
 file = "mods/strut-your-stuff.pw.toml"
 hash = "be50160d9d37a186eaf955f39f22a4e1a3d76fb4e61c63aaca25fd5ab2124f9e"
 metafile = true
@@ -2672,6 +2779,11 @@ hash = "3471aa37f60afd158148e97410c12fc3ab463a846c7d6bd227a1ebafec2223aa"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
@@ -2679,6 +2791,16 @@ metafile = true
 [[files]]
 file = "mods/vics-point-blank.pw.toml"
 hash = "a7541495700ef058dcd41c2a82d904afeb97678777e6bef6a08dc55851abd5da"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise-seven-seas.pw.toml"
+hash = "6817acd8f1a98c3e7c00e61507a9178fa9c7398b356f6e92704656a712157dcd"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "485906ff55a5d6ad06070abb80663d6adadc3e4b32f8b52240d8596e7aaef9fa"
 metafile = true
 
 [[files]]

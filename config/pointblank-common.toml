@@ -58,7 +58,7 @@ bulletsBreakGlassEnabled = true
 #Modifier to adjust damage dealt by hitscan weapons
 # Default: 1.0
 # Range: 0.1 ~ 10.0
-hitscanDamageModifier = 1.0
+hitscanDamageModifier = 0.6
 #Sets the crosshair type.
 #Allowed Values: DEFAULT, VANILLA, DISABLED
 crosshair = "DEFAULT"
