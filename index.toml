@@ -2508,7 +2508,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
+hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
 
 [[files]]
