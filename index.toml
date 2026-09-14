@@ -2714,6 +2714,11 @@ hash = "53db992bf801e7788e72d611281252f73b53c1161c8958137f8a1b912bb3f615"
 metafile = true
 
 [[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "0a9cfda308779f1c006144a6e1797ebf42b628477bcbb233bbba8d10af15075c"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
 metafile = true
