@@ -2187,6 +2187,11 @@ hash = "7c5aa4687ff34e1ffe62e0e2570e38d40dbedc8f0d45fadcb8f9c3252f9cf677"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "efc9a3f8d4d0098687667f5ce7be29262202bcba23b0cec29811dcac1b0799fc"
+metafile = true
+
+[[files]]
 file = "mods/create-aerowarptics.pw.toml"
 hash = "5b7b705d191d48c80f01917e6d0a2676176fab130a8fa775049320aa8f289c26"
 metafile = true
@@ -2247,6 +2252,11 @@ hash = "9441e0a305d19725ed73bfe5199263bc1617e7fffc67bd56534ef89a294535ed"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
+metafile = true
+
+[[files]]
 file = "mods/databank.pw.toml"
 hash = "255fab3281eaf50589f7009c1887b2f9e638a6512e2fab7ffa1a967bf760bfa9"
 metafile = true
@@ -2292,6 +2302,11 @@ hash = "adaf48f66a09d2ee6176b134a065c70733aaaaf19bc75eb32c8c76973a63de59"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "d9ed9ac8e0db9db29078dafa22bc2d86ac702f10863ae7cb1d5245111c5ea17b"
+metafile = true
+
+[[files]]
 file = "mods/fdlib.pw.toml"
 hash = "a85ef8504d5bd6fca464cfa59df51af343a5194f5b71ed127197751280d904a6"
 metafile = true
@@ -2327,6 +2342,11 @@ hash = "02912417fe717863ea64b62bc314a12e085e53dd4d1a68aafc12f896bc6e0446"
 metafile = true
 
 [[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "1b23f5a7defc103d67d16db0053ff2f6240436bb0d682f760865b590e3416a65"
+metafile = true
+
+[[files]]
 file = "mods/irons-rpg-tweaks.pw.toml"
 hash = "f5a12e217189de53f0b0ffa558e3ec0b0a7532f0b80db10d46f2db235c3fb7c0"
 metafile = true
@@ -2349,6 +2369,11 @@ metafile = true
 [[files]]
 file = "mods/irons-spells-n-spellbooks-restrictions.pw.toml"
 hash = "f44d072b68dc4f6ce57594dda45a00857e4d3f228f44c316ee745122a790f60d"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "4f7ef8bd9e05ab690a81d0f698d38a25bbaf0729953fd015bca3a852aadf7689"
 metafile = true
 
 [[files]]
@@ -2427,6 +2452,11 @@ hash = "a80d243759a5998d1f61cab61a9769526c21e1a9ac2f328ec1f213bb97311bfe"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps-x-sable-aeronautics-compat.pw.toml"
 hash = "d3f344379f2a13cb839384c213a1c9836f8a305e83c696154c732d59aef03c2b"
 metafile = true
@@ -2472,6 +2502,11 @@ hash = "785cb5e2c385cdf779f3ced160e0ca85a2d12f139240ed5cee86242efd5ba565"
 metafile = true
 
 [[files]]
+file = "mods/sable.pw.toml"
+hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "8532de1bebd0adbaefe89aead1c038e6449e5b7e8f4a8d8663a6f2555954e063"
 metafile = true
@@ -2509,6 +2544,11 @@ metafile = true
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
 hash = "6bb9455448532ad9a4cf782af982e42762f9bcc5ce33bfe219ff9fb258953434"
+metafile = true
+
+[[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "be50160d9d37a186eaf955f39f22a4e1a3d76fb4e61c63aaca25fd5ab2124f9e"
 metafile = true
 
 [[files]]
