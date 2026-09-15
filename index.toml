@@ -3106,6 +3106,16 @@ hash = "6cb053381e774f83642c33b1673dead3508a5ea5b3a81c7a59044ff65cc72861"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-aeronautics.pw.toml"
+hash = "652683ccd1f2c05c2eb4dfeeaa6e6d624025575782982256020c5965a1b59f92"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-perfected.pw.toml"
+hash = "9d29ba7efbee707dbb481c750f13e45ceccdc2aae4cd02e5cf9afc523337b211"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
