@@ -825,14 +825,6 @@ file = "config/ftbquests/quests/chapters/bounty_board.snbt"
 hash = "11c5009cb56f44d1923c495b4a8f65b58cfcc2b93aa150457c498bcfed2475f2"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/deeper_and_darker.snbt"
-hash = "33fe3e9f324084c8ab172f49c2ba033d6d0f7ee5592cb8cb83824308b73cd44a"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/ice__fire.snbt"
-hash = "1744bb92fb0d68d77ae6a4ab5d5f86306cb5b6ce140099295554af917a861339"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/mahou_tsukai.snbt"
 hash = "4c994435590338767efcdc05ec2a6ae79404968ce06feb9c1292cb8e2ffc7149"
 
@@ -2584,6 +2576,11 @@ hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
 metafile = true
 
 [[files]]
+file = "mods/cool-rain-reforged.pw.toml"
+hash = "7c5d1fb47ffd309dc332ad2011e2e392b54d74dc49607872af01222a1df24186"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-climbable-ropes.pw.toml"
 hash = "ea9c25f9425fcc035abeb460aeee7ad8151e2389b1273fd029fe8d997da3c37e"
 metafile = true
@@ -2979,6 +2976,11 @@ hash = "00fb150ec4389dbe540bcede8ac3b6e34677f5bf3e3454732d311b7e44569d63"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "a5002024b70bba96cdcfdec654d7b224f5386da01b992e8c71225effe7cd8351"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
 metafile = true
@@ -3051,6 +3053,11 @@ metafile = true
 [[files]]
 file = "mods/sable-beyond.pw.toml"
 hash = "8b53d6ff33309a5a8b78b741fb6ce02c7e84bde2ea14d1252604bc314f2201dc"
+metafile = true
+
+[[files]]
+file = "mods/sable-cool-rain.pw.toml"
+hash = "8f798da42f94186d3d81e7ffa467bb9eb7c0ac35293eb07edde125f149452c57"
 metafile = true
 
 [[files]]
