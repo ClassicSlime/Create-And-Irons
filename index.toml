@@ -1230,7 +1230,7 @@ hash = "222ca20f214d032e45c5db5408667974102cd17ae109d130b37d4921348cdca4"
 
 [[files]]
 file = "config/streamsreflowing-common.toml"
-hash = "536612de8aed38e953e3fd735b72cfa80812064b5a0c89206a294cb4b15449df"
+hash = "4e21e64887dbe3de38a17ab8446a4dc04075046dbe6dc0fc2d4d995bfa5b2935"
 
 [[files]]
 file = "config/streamsreflowing/bank_features/.withdrew_2_13_2"
@@ -3126,11 +3126,6 @@ hash = "aa584566e7edf979e1cc8ea3c5d812224c8223add42fa06f8c3d81a84b88ed57"
 metafile = true
 
 [[files]]
-file = "mods/streams-reflowing.pw.toml"
-hash = "6bb9455448532ad9a4cf782af982e42762f9bcc5ce33bfe219ff9fb258953434"
-metafile = true
-
-[[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "20d767f7f803fd43e7b539046878bf97a27458595a1beff0b28002aca1b671de"
 metafile = true
@@ -3148,11 +3143,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "51c911d05e42b074fea01a74cb05050fa15164eed8a5d137cf0f64ecc16ed861"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "3471aa37f60afd158148e97410c12fc3ab463a846c7d6bd227a1ebafec2223aa"
 metafile = true
 
 [[files]]
