@@ -1126,6 +1126,11 @@ hash = "ef756e81d0186b5fe3087cc431b4d90e23a6f8e0ff764f7d41a4393334546e3d"
 metafile = true
 
 [[files]]
+file = "mods/epicfightcurioscompat.pw.toml"
+hash = "09696b63faed3f980b5c49bdc5942d1181d615b5c2af4e2d2d7080c10f5572b9"
+metafile = true
+
+[[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "2d32d9bd858a3d998fde7618a15a29d8fa5c96ce8c27f41ff3ed49569b594732"
 metafile = true
@@ -1137,7 +1142,7 @@ metafile = true
 
 [[files]]
 file = "mods/expandability.pw.toml"
-hash = "764a05ea9c17bbd99751c3c2f084110a0a9792d10c92d77b1ac8d362c26698f8"
+hash = "567cbaa3eec8151eed80d01a72a898e15d02a93a13c5b5362b592e5ed8434675"
 metafile = true
 
 [[files]]
@@ -1156,6 +1161,11 @@ hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
+metafile = true
+
+[[files]]
 file = "mods/fundamental-principles-irons-spells-addon.pw.toml"
 hash = "b4737a129c515297466d2a6b9b3de29cbb8ce86999055e0d0335ea11dd2fc227"
 metafile = true
@@ -1167,7 +1177,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
+hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
 
 [[files]]
@@ -1208,6 +1218,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "1b84f2dda2014252ffb0b792f4850fa3b3b396a49f39cac7b11c8cb88bf1a1e4"
 metafile = true
 
 [[files]]
@@ -1313,6 +1328,11 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "985e76bc7102ebb55572abd9dd5a2e69ca0ea967cb8abcfa159ff2fdecb0d8e0"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
