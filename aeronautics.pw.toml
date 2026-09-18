@@ -1,0 +1,13 @@
+name = "Aeronautics"
+filename = "aeronautics.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35b60e7c0cd03504b9cdf540e4abff9a2dcb9b64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8225362
+project-id = 1567656
