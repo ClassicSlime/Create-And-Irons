@@ -1,25 +1,25 @@
 filename = 'estrogen-6.0.8+1.21.1-neoforge.jar'
 name = 'Estrogen'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '6.0.8+1.21.1-neoforge'
+x-prismlauncher-version-number = 'Estrogen 6.0.8+1.21.1 Neoforge'
 
 [download]
-hash = '44c10020fa3a05094d17a24bfbf86af19b744781eab15ec5638dfbdb23cd79acdcd0eefd47fda91e286f7de47d3489ebf4142dd075b96e974187b9579b4ef81f'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/HhIJW8n1/versions/sB9ZotMl/estrogen-6.0.8%2B1.21.1-neoforge.jar'
+hash = '6971caf2c0029204c9bb7bd69a025c2d9138d9ea'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'HhIJW8n1'
-version = 'sB9ZotMl'
+[update.curseforge]
+file-id = 8801851
+project-id = 850410
 
 [[x-prismlauncher-dependencies]]
-addonId = '4JVfdODB'
+addonId = '309927'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'vvuO3ImH'
+addonId = '1259952'
 type = 'REQUIRED'

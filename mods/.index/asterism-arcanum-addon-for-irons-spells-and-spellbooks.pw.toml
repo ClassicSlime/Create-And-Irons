@@ -17,14 +17,14 @@ mod-id = 'XImLIVFt'
 version = 'pHid8vVL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 's4OWxYQQ'
-type = 'REQUIRED'
-version = 'Az9kyOso'
-
-[[x-prismlauncher-dependencies]]
 addonId = 'X5dUUm4k'
 type = 'REQUIRED'
 version = 'OpnqfJde'
+
+[[x-prismlauncher-dependencies]]
+addonId = 's4OWxYQQ'
+type = 'REQUIRED'
+version = 'Az9kyOso'
 
 [[x-prismlauncher-dependencies]]
 addonId = '7Jy4rK9m'

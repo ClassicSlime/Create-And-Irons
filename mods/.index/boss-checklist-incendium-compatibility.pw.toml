@@ -1,0 +1,25 @@
+filename = 'Boss Checklist - Incendium Compatibility 1.21.1 1.0.0 NeoForge.jar'
+name = 'Boss Checklist - Incendium Compatibility'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = 'e02f62672bee24ee4640b2d9dd0add261175cedb4ad4f9ad316b753249858be2d99c9e4d856c4185db52ba4567053638bdfce31b038a548f778886a7ef0920cb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yQgpun4Y/versions/8FQUzkIF/Boss Checklist - Incendium Compatibility 1.21.1 1.0.0 NeoForge.jar'
+
+[update.modrinth]
+mod-id = 'yQgpun4Y'
+version = '8FQUzkIF'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'z1Dv56jq'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ZVzW5oNS'
+type = 'REQUIRED'

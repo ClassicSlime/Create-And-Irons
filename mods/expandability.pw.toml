@@ -1,0 +1,13 @@
+name = "ExpandAbility"
+filename = "expandability-neoforge-14.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee794b110f79e2db41bcdf37b94ab3cb7b104d9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7950111
+project-id = 465066

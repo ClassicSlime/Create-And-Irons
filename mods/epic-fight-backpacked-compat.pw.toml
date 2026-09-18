@@ -1,0 +1,13 @@
+name = "Epic Fight + Backpacked Compat"
+filename = "epicfightbackpackedcompat-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8fb801dfb33569c7398df50804e97f8756aa6ac8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7730971
+project-id = 1481247

@@ -22,11 +22,11 @@ type = 'REQUIRED'
 version = 'RtvqnbKi'
 
 [[x-prismlauncher-dependencies]]
-addonId = '7Jy4rK9m'
-type = 'REQUIRED'
-version = 'zSD21doG'
-
-[[x-prismlauncher-dependencies]]
 addonId = '8BmcQJ2H'
 type = 'REQUIRED'
 version = 'QEqpUJ1G'
+
+[[x-prismlauncher-dependencies]]
+addonId = '7Jy4rK9m'
+type = 'REQUIRED'
+version = 'zSD21doG'
