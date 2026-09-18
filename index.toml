@@ -1351,6 +1351,11 @@ hash = "985e76bc7102ebb55572abd9dd5a2e69ca0ea967cb8abcfa159ff2fdecb0d8e0"
 metafile = true
 
 [[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "a4a670f4b467518d39b9d1bc340d4c0592d1319f43adb821c0ebe96bd5f1ade7"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
@@ -1543,9 +1548,4 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
-metafile = true
-
-[[files]]
-file = "resourcepacks/enhanced-boss-bars.pw.toml"
-hash = "13f3872896bc7f72e1a05325658bc093161de52cbfc16580002b51a74262db24"
 metafile = true
