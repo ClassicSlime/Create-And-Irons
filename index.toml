@@ -1166,6 +1166,16 @@ hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model-compat.pw.toml"
+hash = "763c47314a6cfd78f6c33e576cc2cbb68ebec3ef65a9b17704f6841a4c4c98ed"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "85f4699d7683506184d7aff9ea737a620efa0974e9dff30eecc22530cc1cca45"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
@@ -1317,7 +1327,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
+hash = "5de9db0e10c89eae874a1af537cb3738eee5e9ddaf1daa7ba96a8b3d571a2668"
 metafile = true
 
 [[files]]
