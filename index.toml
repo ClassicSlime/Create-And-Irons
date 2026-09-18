@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "aeronautics.pw.toml"
-hash = "cdda1e1b97e42708d2a80e9cb8adfb8137197d8b5aae5edabd4d108e1f2214a9"
-metafile = true
-
-[[files]]
 file = "mods/.index/3dskinlayers.pw.toml"
 hash = "aa1255378eb0e5d712c0265fac7fb53da02bdb8199b1838f9b15f07c88aeb3ee"
 metafile = true
@@ -1382,7 +1377,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable-ragdolls.pw.toml"
-hash = "44988ea0309235eac8e49d360dfabb8fd9074592882316641e438cc281a4f747"
+hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
 metafile = true
 
 [[files]]
