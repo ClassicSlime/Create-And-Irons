@@ -761,6 +761,11 @@ hash = "adc7d3d3137020676e08b3b79a6ce868d9ab1b099bd09ff7e5acb6c2eaa68c6a"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "9f4c82355a37e196e66eb74d83ae28b5bfd6fa76cf2146db4dedfae5837dbe20"
+metafile = true
+
+[[files]]
 file = "mods/backpacked.pw.toml"
 hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
 metafile = true
