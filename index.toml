@@ -1176,6 +1176,11 @@ hash = "85f4699d7683506184d7aff9ea737a620efa0974e9dff30eecc22530cc1cca45"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "15219e64b45e53db93de94091172e6a4c5ae9a749710ce91a615c973a552c215"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
@@ -1423,6 +1428,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "db7288121ed92b50f70b67886919279445ff115a6b078c31c2897ab8204ca44a"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "161d6ad57ed27debb9107d48b0a8de76bc60e41e9d41650efe4bfa080d86e2e8"
 metafile = true
 
 [[files]]
