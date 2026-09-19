@@ -821,6 +821,11 @@ hash = "41679608577cd9aadf512999bdeb4690bce62393bdab682ec9c5cc306650c947"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
 file = "mods/cataclysm-bettercombat-compatibility.pw.toml"
 hash = "1f87f9c7a9025bdccb54a8ed0ead8d9c3f08e5e46db7f6a6243f2f50ffe62fff"
 metafile = true
@@ -1206,6 +1211,11 @@ hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
 
 [[files]]
+file = "mods/hexcast-neoforged.pw.toml"
+hash = "d67e618750cb3dcd9c1c52702f52ffb8b8723cfd3ece7c75ad333ac9b1720932"
+metafile = true
+
+[[files]]
 file = "mods/hypertubes.pw.toml"
 hash = "3e7678d56426a61b7f67a2f6e8e50dc1d5c3b27a6a82a772990b3eec3ca8e150"
 metafile = true
@@ -1358,6 +1368,16 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "a5002024b70bba96cdcfdec654d7b224f5386da01b992e8c71225effe7cd8351"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "51b0b44901aa98943a87ba02446b497b7acbc7177b8f320ed64ec5ddc3b1ccd8"
 metafile = true
 
 [[files]]
