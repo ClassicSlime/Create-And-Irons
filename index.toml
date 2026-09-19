@@ -766,11 +766,6 @@ hash = "9f4c82355a37e196e66eb74d83ae28b5bfd6fa76cf2146db4dedfae5837dbe20"
 metafile = true
 
 [[files]]
-file = "mods/backpacked.pw.toml"
-hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "48ccf754257a1d140c12e4cee3bd7901392023fcd5a3fc961b7275448459fe73"
 metafile = true
@@ -789,10 +784,6 @@ metafile = true
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "f75f946469a16f1640622c2bdecbd8a6dafa0876bf7f1000332abd1328e15ef5"
 metafile = true
-
-[[files]]
-file = "mods/better-combat-x-cataclysm-spellbooks-compatibility-1.1.jar"
-hash = "c7423c36d11a51e756aac5d9d189012a91fce8ef5e8b8de50f6740ce2534f9ee"
 
 [[files]]
 file = "mods/better-combat.pw.toml"
@@ -1155,56 +1146,6 @@ hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
 
 [[files]]
-file = "mods/epic-fight-backpacked-compat.pw.toml"
-hash = "adc8065f9d20c1bb2ec27b409f74c40d12ea35f92f1e2cbacfa4bb21613319f0"
-metafile = true
-
-[[files]]
-file = "mods/epic-fight-curios-compat-extended.pw.toml"
-hash = "6c7c75e5de2a0069e5ceaf9fa8bd773d551819eff8304bc55f6c0866a90ebadc"
-metafile = true
-
-[[files]]
-file = "mods/epic-fight-mod.pw.toml"
-hash = "1aa2e2f15057fd26009d094fe21aba13ca2523b1a75c8583e544883f90b44e3e"
-metafile = true
-
-[[files]]
-file = "mods/epic-fight-progressive-difficulty.pw.toml"
-hash = "125aeb8363186ff0bc669826e31e0ab536da0b68ba333db3f69236047fa76167"
-metafile = true
-
-[[files]]
-file = "mods/epic-fight-skill-tree.pw.toml"
-hash = "b71a01e3aa8272fbdae97b60e5de9e51ccc0ffb2e7c7aced3ccecd1165d9e616"
-metafile = true
-
-[[files]]
-file = "mods/epic-fight-x-first-person-model.pw.toml"
-hash = "4fbeb7b2312cdddcf271593d59cdb9b40a78c5aa581071f0f2ec4dee349c5c2c"
-metafile = true
-
-[[files]]
-file = "mods/epic-fight-x-irons-spells-enhanced-animation.pw.toml"
-hash = "c6d9a1bb1bbb87942e7f1015c9cb0a7cb05617e876b1ded8f01ccc1f443defa5"
-metafile = true
-
-[[files]]
-file = "mods/epic-fight-x-irons-spells-enhanced-animations.pw.toml"
-hash = "0cfd01a39e65268b006726f7d5c55104be5dbe59342082eff0c1e860e822f954"
-metafile = true
-
-[[files]]
-file = "mods/epicfight-backpacked-compat.pw.toml"
-hash = "ef756e81d0186b5fe3087cc431b4d90e23a6f8e0ff764f7d41a4393334546e3d"
-metafile = true
-
-[[files]]
-file = "mods/epicfightcurioscompat.pw.toml"
-hash = "09696b63faed3f980b5c49bdc5942d1181d615b5c2af4e2d2d7080c10f5572b9"
-metafile = true
-
-[[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "2d32d9bd858a3d998fde7618a15a29d8fa5c96ce8c27f41ff3ed49569b594732"
 metafile = true
@@ -1232,16 +1173,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
-metafile = true
-
-[[files]]
-file = "mods/first-person-model-compat.pw.toml"
-hash = "763c47314a6cfd78f6c33e576cc2cbb68ebec3ef65a9b17704f6841a4c4c98ed"
-metafile = true
-
-[[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "85f4699d7683506184d7aff9ea737a620efa0974e9dff30eecc22530cc1cca45"
 metafile = true
 
 [[files]]
@@ -1548,14 +1479,6 @@ metafile = true
 file = "mods/sophisticated-core.pw.toml"
 hash = "2f0c858e1e303aba06718a27c1628134418d53825bd46e3c44cabe1b442636c7"
 metafile = true
-
-[[files]]
-file = "mods/sophisticatedbackpacks-1.21.1-3.26.3.2158.jar"
-hash = "3690359cc3bb2aa43e40db6ca047ca7d5feda5141c8b9fd647c4355678e971e2"
-
-[[files]]
-file = "mods/sophisticatedcore-1.21.1-1.5.1.2341.jar"
-hash = "f627b497fc0a2b50da9f20b77e13073df9245718660259d8f559aa184c4418a1"
 
 [[files]]
 file = "mods/sound-physics-aeronautics.pw.toml"
