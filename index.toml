@@ -1132,7 +1132,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "bbddd84cbac56bb6fa268c99be60e76b93020d7d5184b62e9a0133c164204cb5"
+hash = "0ae06c97bf858f3941fd7369e34a71967e7a5c26c26b1cb7371a5be0f1842ecd"
 metafile = true
 
 [[files]]
@@ -1143,6 +1143,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "42731772f3bde6bc35c48ff39a0b16c24edfa245c42d2ca8c8abd11f57edf4e7"
 metafile = true
 
 [[files]]
