@@ -1,0 +1,13 @@
+name = "Haze PBR"
+filename = "Haze PBR.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jYvijmQM/versions/SWJ6jHo2/Haze%20PBR.zip"
+hash-format = "sha512"
+hash = "828bccbfdaf99f251f70eee061f727e8910f5a127a0c4ebaac3016fbb3a30dd9573b6975fe5771f265f1665dc1d9fa863d5729b1f5c8f2bf01321a29c32389ab"
+
+[update]
+[update.modrinth]
+mod-id = "jYvijmQM"
+version = "SWJ6jHo2"

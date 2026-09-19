@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/aces-spell-utils.pw.toml"
-hash = "cd38c6ff0a1cd02fd2ed08d1238313cb67b8edb4fc933577ccd4297be6c4663f"
+hash = "98ad272682eaa9ff39165f7290e7c3e6cde6042c2ae783f60984524122096588"
 metafile = true
 
 [[files]]
@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "9f4c82355a37e196e66eb74d83ae28b5bfd6fa76cf2146db4dedfae5837dbe20"
+hash = "f9bc54d3fb8c268bec1f0e5d75818c825a1f83eaf26a6f90061cd4097a81c96f"
 metafile = true
 
 [[files]]
@@ -863,6 +863,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
+metafile = true
+
+[[files]]
+file = "mods/cobweb.pw.toml"
+hash = "23f681379a3e647a59f0749d25f2ce0725d4afafeed41871c5c87f2658d13a72"
 metafile = true
 
 [[files]]
@@ -1206,6 +1211,16 @@ hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
 
 [[files]]
+file = "mods/hazen-n-stuff.pw.toml"
+hash = "fce782d9e0860ca68b66b821d2e13c4698353440a0287c2e800269e372ce9b24"
+metafile = true
+
+[[files]]
+file = "mods/hazentouvelib.pw.toml"
+hash = "30a4fd7bea6950616484f5d25f21afa58657ff72a07ceb37c9bcb0ccf587a276"
+metafile = true
+
+[[files]]
 file = "mods/hexcast-neoforged.pw.toml"
 hash = "d67e618750cb3dcd9c1c52702f52ffb8b8723cfd3ece7c75ad333ac9b1720932"
 metafile = true
@@ -1323,6 +1338,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "f976c1685acfb6d19496454f2d8d9b3128778e7a7a940a458992d145dc3a8fba"
+metafile = true
+
+[[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "5941e2c19b91a30259faface31ac46f7c3e1851728633d69080707d8af38f3f1"
 metafile = true
 
 [[files]]
@@ -1506,6 +1526,11 @@ hash = "2f0c858e1e303aba06718a27c1628134418d53825bd46e3c44cabe1b442636c7"
 metafile = true
 
 [[files]]
+file = "mods/soul-fire-d.pw.toml"
+hash = "aa7a2c186bf1ce65441be06d1c9a5af18b054098e4bdc37273fb4e75f0d27fc5"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-aeronautics.pw.toml"
 hash = "652683ccd1f2c05c2eb4dfeeaa6e6d624025575782982256020c5965a1b59f92"
 metafile = true
@@ -1593,4 +1618,9 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hazen.pw.toml"
+hash = "bedc227fde596926a41f29ca6598eade6d0c1a1c58ad56d141c5c82ecfb069e1"
 metafile = true
