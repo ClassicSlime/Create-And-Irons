@@ -786,6 +786,25 @@ hash = "9009bd5cdcdbc6bc47a7fbb203844d9a551accdd796877bdba5233ac14bbd513"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "f75f946469a16f1640622c2bdecbd8a6dafa0876bf7f1000332abd1328e15ef5"
+metafile = true
+
+[[files]]
+file = "mods/better-combat-x-cataclysm-spellbooks-compatibility-1.1.jar"
+hash = "c7423c36d11a51e756aac5d9d189012a91fce8ef5e8b8de50f6740ce2534f9ee"
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "438170e7e704a1b8ed67bf0521dc5d77cdeeaabf6f729dba9f8dfdad75330acf"
+metafile = true
+
+[[files]]
+file = "mods/better-mob-combat-reimagined.pw.toml"
+hash = "f730db5fd5537bfd183264182e76d4e3c33ce8ad79602920f3ada74e96de3e38"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
@@ -808,6 +827,21 @@ metafile = true
 [[files]]
 file = "mods/bossesrise.pw.toml"
 hash = "41679608577cd9aadf512999bdeb4690bce62393bdab682ec9c5cc306650c947"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-bettercombat-compatibility.pw.toml"
+hash = "1f87f9c7a9025bdccb54a8ed0ead8d9c3f08e5e46db7f6a6243f2f50ffe62fff"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-spellbooks-bettercombat-compat.pw.toml"
+hash = "9c1c61ee105357bc6929bc63b26f30093445d57d3b1f4df6bc55f62f6d952331"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-spellbooks.pw.toml"
+hash = "48a43f54f8e00b8c578aff25efcb824019016be3b432374df87a6e0960728aa5"
 metafile = true
 
 [[files]]
@@ -951,6 +985,11 @@ hash = "e4e6e46601e4d39afc2b6bf3bbe9afa9371596f285fa7f81b3b77865c7bd492b"
 metafile = true
 
 [[files]]
+file = "mods/create-ironworks.pw.toml"
+hash = "280679815c07172ffb7c2bc66277eb95aaa9efa1fd31ea324004aef3069f06b6"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "e5c71564073063aa8cd45a512f719979939b4ac319370a9a223e2c1c4e846974"
 metafile = true
@@ -1081,6 +1120,16 @@ hash = "89eab7f9d24b2d49f191847fc35f347e71eb4d9006a2a0e1a8fb3ee3ba7bbf58"
 metafile = true
 
 [[files]]
+file = "mods/emf-compat-better-combat.pw.toml"
+hash = "af92e54ee4d988e174d458a3437ec633ca40e026103dd0c2d7eeaecf369c96a7"
+metafile = true
+
+[[files]]
+file = "mods/emf-compat-core.pw.toml"
+hash = "7e0b2cc2e3c0af0d00a6c868baa068e56e9eaf93dc59ef35781b720c4ce4a3e4"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "f9e6dd1d85322833d9d3440446e569340ef52e23a5ce2149ddedec1c49b24efc"
 metafile = true
@@ -1088,6 +1137,16 @@ metafile = true
 [[files]]
 file = "mods/enhanced-boss-bars.pw.toml"
 hash = "88ef81d026b711444c5f9832a6300c933759b0987fef477cf4a3e8767fd0041f"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "bbddd84cbac56bb6fa268c99be60e76b93020d7d5184b62e9a0133c164204cb5"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "20de659318ff023d1d7c99d360eb8e33a6053c3564d1c702ddaa7fcfc63e693e"
 metafile = true
 
 [[files]]
@@ -1479,6 +1538,24 @@ metafile = true
 file = "mods/some-assembly-required.pw.toml"
 hash = "3ee552df830edc21983af39740f267599437cd98a4e37b071413a598716861a8"
 metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "d089be7d1b39541c418ea6a6a4d3797eb5afcc68ad511dbd606de66d5397d59d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "2f0c858e1e303aba06718a27c1628134418d53825bd46e3c44cabe1b442636c7"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedbackpacks-1.21.1-3.26.3.2158.jar"
+hash = "3690359cc3bb2aa43e40db6ca047ca7d5feda5141c8b9fd647c4355678e971e2"
+
+[[files]]
+file = "mods/sophisticatedcore-1.21.1-1.5.1.2341.jar"
+hash = "f627b497fc0a2b50da9f20b77e13073df9245718660259d8f559aa184c4418a1"
 
 [[files]]
 file = "mods/sound-physics-aeronautics.pw.toml"
