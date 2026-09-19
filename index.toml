@@ -1091,11 +1091,6 @@ hash = "db153992e71c2c1ca7643ad93d11f1276cada2843879cd01909abef2f2ed9df9"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "c3e0dd6a4bac728f3f892616af7e78ce363df113b0fe11daf95f17a32d68ef1a"
-metafile = true
-
-[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "d2abefd9997328f0fdc8b36f9386438bee89889f58e878f290e9a9c8db8b1b5c"
 metafile = true
@@ -1538,11 +1533,6 @@ metafile = true
 [[files]]
 file = "mods/spells-gone-wrong.pw.toml"
 hash = "8d303c0c2929956f989d082c18cf3b385b43bc869ecb03b20ae8fe23d3624f48"
-metafile = true
-
-[[files]]
-file = "mods/ssrd.pw.toml"
-hash = "aa584566e7edf979e1cc8ea3c5d812224c8223add42fa06f8c3d81a84b88ed57"
 metafile = true
 
 [[files]]
