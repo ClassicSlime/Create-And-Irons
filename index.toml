@@ -1156,8 +1156,8 @@ hash = "f9e6dd1d85322833d9d3440446e569340ef52e23a5ce2149ddedec1c49b24efc"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-boss-bars.pw.toml"
-hash = "88ef81d026b711444c5f9832a6300c933759b0987fef477cf4a3e8767fd0041f"
+file = "mods/enhanced-boss-bars-mod.pw.toml"
+hash = "6aecb0c0e632a3e733f785522dee0d0eab272b9ce1f6687414255d9e4d48cd09"
 metafile = true
 
 [[files]]
@@ -1458,6 +1458,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+metafile = true
+
+[[files]]
+file = "mods/prometheus-api.pw.toml"
+hash = "edef74673c04f649fce7fdb438ae12cf5f9aa6416df471f362043f7a09204113"
 metafile = true
 
 [[files]]
