@@ -1157,7 +1157,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-boss-bars-mod.pw.toml"
-hash = "6aecb0c0e632a3e733f785522dee0d0eab272b9ce1f6687414255d9e4d48cd09"
+hash = "4cc7172ef8999b9edc390c45219ae65f200baf894d3f0f17a709714bb96fa409"
 metafile = true
 
 [[files]]
