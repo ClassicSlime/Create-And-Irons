@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "b3b67f83faf9dcc4985b7a13fa8affb71062461d271f80cc0958652df9f3126b"
+hash = "aebd68f8a8e3f11600085f108b78d73578a694d9677c7068752388da9d7542c0"
 metafile = true
 
 [[files]]
@@ -892,12 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats+-aeronautics-weight.pw.toml"
-hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
-metafile = true
-
-[[files]]
-file = "mods/copycats-aeronautics-weight.pw.toml"
-hash = "5e3e1807657a50181a5001027c888474c3b2852623cdb3f72b71cf10f49a0208"
+hash = "6bb6de11ca8918e354a5bc488607c659342c1e2f719bdc38415f7ef853b72836"
 metafile = true
 
 [[files]]
@@ -1222,12 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/fundamental-principles-irons-spells-addon.pw.toml"
-hash = "b4737a129c515297466d2a6b9b3de29cbb8ce86999055e0d0335ea11dd2fc227"
-metafile = true
-
-[[files]]
-file = "mods/fundamental-principles.pw.toml"
-hash = "4bab452879c8a642c1461c4db4e99113118087809e407d4a46887f91a8bea267"
+hash = "5ccc7f7400ed82259bbc37b1862251e0b56cfc6de39a427317a7e570477606ae"
 metafile = true
 
 [[files]]
@@ -1397,7 +1387,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "5de9db0e10c89eae874a1af537cb3738eee5e9ddaf1daa7ba96a8b3d571a2668"
+hash = "f8eee405d0d260033a8eacedfb8b1f0be70176b21e1cf13d76925aee3010b193"
 metafile = true
 
 [[files]]
@@ -1437,7 +1427,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "a4a670f4b467518d39b9d1bc340d4c0592d1319f43adb821c0ebe96bd5f1ade7"
+hash = "78207822df20f299c8f43b62ea7287e4ba60c106579aa20b1d9221a7edd11ea1"
 metafile = true
 
 [[files]]
@@ -1482,7 +1472,7 @@ metafile = true
 
 [[files]]
 file = "mods/ragdoll-reactions.pw.toml"
-hash = "eb182616552dab79fd14b55c12a2a0f8e1153ec6c9d90989acffe1c420621ca0"
+hash = "721d661363d9658ba8845c5cda708d1a6821beae6f4b24597b53c0ddca4ecd94"
 metafile = true
 
 [[files]]
@@ -1517,7 +1507,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
+hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
 
 [[files]]
@@ -1528,11 +1518,6 @@ metafile = true
 [[files]]
 file = "mods/sinytra-connector.pw.toml"
 hash = "161d6ad57ed27debb9107d48b0a8de76bc60e41e9d41650efe4bfa080d86e2e8"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "551132dcd7a74c2de47e12e776942fa5b2ce8a14fe7202e4d61152e422e4817a"
 metafile = true
 
 [[files]]
