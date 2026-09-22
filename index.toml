@@ -1022,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
-hash = "933542ef6b68b15a91e20f9d87cb1f03546d0081b12c2e489df860fd47b3be28"
+hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
 metafile = true
 
 [[files]]
@@ -1077,7 +1077,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -1246,9 +1246,8 @@ hash = "30a4fd7bea6950616484f5d25f21afa58657ff72a07ceb37c9bcb0ccf587a276"
 metafile = true
 
 [[files]]
-file = "mods/hexcast-neoforged.pw.toml"
-hash = "d67e618750cb3dcd9c1c52702f52ffb8b8723cfd3ece7c75ad333ac9b1720932"
-metafile = true
+file = "mods/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-53.jar"
+hash = "5363e5697a4a63599c80f6a40ae259ce6347e6a2590ed59307da5f0edded2d72"
 
 [[files]]
 file = "mods/hypertubes.pw.toml"
@@ -1421,9 +1420,8 @@ hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
-file = "mods/paucal.pw.toml"
-hash = "51b0b44901aa98943a87ba02446b497b7acbc7177b8f320ed64ec5ddc3b1ccd8"
-metafile = true
+file = "mods/paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
+hash = "4be89c91385ffaecb5a0cc405d644dc7387c6f05705630b26df333a226ffae08"
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
