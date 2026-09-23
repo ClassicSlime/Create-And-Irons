@@ -731,10 +731,6 @@ hash = "aebd68f8a8e3f11600085f108b78d73578a694d9677c7068752388da9d7542c0"
 metafile = true
 
 [[files]]
-file = "mods/HexAutomata-neoforge-1.21.1-0.3.5.pre53.jar"
-hash = "3be5c0c27cc9490aeca12302e1ec98a1acfd5969a4edf93194c6f970d9c67faf"
-
-[[files]]
 file = "mods/Pehkui-3.8.3+1.21-neoforge.jar"
 hash = "50aab835b0f98dedf33383483b021789c2991786f02b00e6d1b7152dc43570ec"
 
@@ -1258,8 +1254,8 @@ file = "mods/hexal-0.3.1-NEOFORGE-DEVEL-pre-12.jar"
 hash = "7d5c16c447504022ab0e0433235349fa33340d4196aa75ee250c87890e805c42"
 
 [[files]]
-file = "mods/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-53.jar"
-hash = "5363e5697a4a63599c80f6a40ae259ce6347e6a2590ed59307da5f0edded2d72"
+file = "mods/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-52.jar"
+hash = "7e1bec4a227701105b64c73173126502bfc812ac72ddf5df1869d91dfb31a1dc"
 
 [[files]]
 file = "mods/hypertubes.pw.toml"
@@ -1399,10 +1395,6 @@ metafile = true
 file = "mods/mezzconfig.pw.toml"
 hash = "57e6050e4ac9100cb4f6028a84ac9e7f09d6dd8c76813276cae6b255b710238b"
 metafile = true
-
-[[files]]
-file = "mods/miehex-neoforge-1.21.1-1.0.2fix#2.jar"
-hash = "37bf89e3b17eedea422701d4ec04b246bbd67fd99f1ed1ba4c19224577acde40"
 
 [[files]]
 file = "mods/moreculling.pw.toml"
