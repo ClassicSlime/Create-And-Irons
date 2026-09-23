@@ -731,6 +731,14 @@ hash = "aebd68f8a8e3f11600085f108b78d73578a694d9677c7068752388da9d7542c0"
 metafile = true
 
 [[files]]
+file = "mods/HexAutomata-neoforge-1.21.1-0.3.5.pre53.jar"
+hash = "3be5c0c27cc9490aeca12302e1ec98a1acfd5969a4edf93194c6f970d9c67faf"
+
+[[files]]
+file = "mods/Pehkui-3.8.3+1.21-neoforge.jar"
+hash = "50aab835b0f98dedf33383483b021789c2991786f02b00e6d1b7152dc43570ec"
+
+[[files]]
 file = "mods/aces-spell-utils.pw.toml"
 hash = "98ad272682eaa9ff39165f7290e7c3e6cde6042c2ae783f60984524122096588"
 metafile = true
@@ -1246,6 +1254,10 @@ hash = "30a4fd7bea6950616484f5d25f21afa58657ff72a07ceb37c9bcb0ccf587a276"
 metafile = true
 
 [[files]]
+file = "mods/hexal-0.3.1-NEOFORGE-DEVEL-pre-12.jar"
+hash = "7d5c16c447504022ab0e0433235349fa33340d4196aa75ee250c87890e805c42"
+
+[[files]]
 file = "mods/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-53.jar"
 hash = "5363e5697a4a63599c80f6a40ae259ce6347e6a2590ed59307da5f0edded2d72"
 
@@ -1288,6 +1300,10 @@ metafile = true
 file = "mods/interiors.pw.toml"
 hash = "34fe94ba3007bf74e8e25c50bcba24b69671bf8e5258d117a0550450ea992269"
 metafile = true
+
+[[files]]
+file = "mods/ioticblocks-neoforge-1.0.2.jar"
+hash = "4d800196df458a960f8b3852602dab41aed6524abc4df45ff33a885a24734214"
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
@@ -1385,9 +1401,17 @@ hash = "57e6050e4ac9100cb4f6028a84ac9e7f09d6dd8c76813276cae6b255b710238b"
 metafile = true
 
 [[files]]
+file = "mods/miehex-neoforge-1.21.1-1.0.2fix#2.jar"
+hash = "37bf89e3b17eedea422701d4ec04b246bbd67fd99f1ed1ba4c19224577acde40"
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "39b9809482c418152a8fbf57e6eeb319c1b9d1b9bb8655d2518069cd58562daf"
 metafile = true
+
+[[files]]
+file = "mods/moreiotas-0.1.1-1.21.1-devel-pre-3.jar"
+hash = "b1f73f1b3d664197acff9d0790cf0f9b848edf4912301fa151a837e4533bca33"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -1652,6 +1676,10 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "42b53ca74c99b3d0edb2ef4e07896b269fd058e049e44e8503d8fd921342eee8"
 metafile = true
+
+[[files]]
+file = "mods/world-casting-neoforge-1.21.1-0.0.1-8.jar"
+hash = "667183846ed517b7c8f9d397436b633a1faad9016bea978eabb3646f69b14ee3"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
