@@ -739,6 +739,10 @@ file = "mods/Pehkui-3.8.3+1.21-neoforge.jar"
 hash = "50aab835b0f98dedf33383483b021789c2991786f02b00e6d1b7152dc43570ec"
 
 [[files]]
+file = "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar"
+hash = "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
+
+[[files]]
 file = "mods/aces-spell-utils.pw.toml"
 hash = "98ad272682eaa9ff39165f7290e7c3e6cde6042c2ae783f60984524122096588"
 metafile = true
