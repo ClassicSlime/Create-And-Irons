@@ -731,16 +731,9 @@ hash = "aebd68f8a8e3f11600085f108b78d73578a694d9677c7068752388da9d7542c0"
 metafile = true
 
 [[files]]
-file = "mods/HexAutomata-neoforge-1.21.1-0.3.5-pre48.jar"
-hash = "a4a1a54f467f7bf6be7fd3db12cf97fc96e412abcca6ea017bd57b59b4324da6"
-
-[[files]]
-file = "mods/Pehkui-3.8.3+1.21-neoforge.jar"
-hash = "50aab835b0f98dedf33383483b021789c2991786f02b00e6d1b7152dc43570ec"
-
-[[files]]
-file = "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar"
-hash = "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
+file = "mods/accessories.pw.toml"
+hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
+metafile = true
 
 [[files]]
 file = "mods/aces-spell-utils.pw.toml"
@@ -818,6 +811,11 @@ hash = "f730db5fd5537bfd183264182e76d4e3c33ce8ad79602920f3ada74e96de3e38"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "7af283ca94e8d0d24a7c5b5fd43c0b5c4bc4300c00754ae40dfb0b5d44ea6a17"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
@@ -860,6 +858,11 @@ metafile = true
 [[files]]
 file = "mods/cataclysm-spellbooks.pw.toml"
 hash = "48a43f54f8e00b8c578aff25efcb824019016be3b432374df87a6e0960728aa5"
+metafile = true
+
+[[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "be7918d29b7fc9f820b6574f3906c1d1decc0fd485d55db5f408429e02bf70b1"
 metafile = true
 
 [[files]]
@@ -915,6 +918,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked-forked.pw.toml"
+hash = "ae6aa56b0dcc6d92dda890bff9b3b638902b662f39501792fce8b879571fbffb"
 metafile = true
 
 [[files]]
@@ -1028,6 +1036,16 @@ hash = "280679815c07172ffb7c2bc66277eb95aaa9efa1fd31ea324004aef3069f06b6"
 metafile = true
 
 [[files]]
+file = "mods/create-more-packages.pw.toml"
+hash = "451a9ae7f6d2e57c556ef6a86d4dae5843f174e7731149edfbf6de280d7f969a"
+metafile = true
+
+[[files]]
+file = "mods/create-more-pipe-bombs-in-packages.pw.toml"
+hash = "f999b1b6a84e63a44ebbbe79164217f1327a1cc823d80da81e960faefdc1277c"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "e5c71564073063aa8cd45a512f719979939b4ac319370a9a223e2c1c4e846974"
 metafile = true
@@ -1100,6 +1118,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "7a164150e18506d4574474a4479b9c4e22fa9debbf79ac4f0d21c04a5adeee5d"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "e16341547a7e580456c1ec30e0b220ee6db94f40293b839e15d09d793468c0df"
 metafile = true
 
 [[files]]
@@ -1198,6 +1221,11 @@ hash = "42731772f3bde6bc35c48ff39a0b16c24edfa245c42d2ca8c8abd11f57edf4e7"
 metafile = true
 
 [[files]]
+file = "mods/envelope.pw.toml"
+hash = "f2996ea3e710a3847fb767c188a3f500e24cf4ecbf6b4634811d44daf544f467"
+metafile = true
+
+[[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "2d32d9bd858a3d998fde7618a15a29d8fa5c96ce8c27f41ff3ed49569b594732"
 metafile = true
@@ -1258,16 +1286,22 @@ hash = "30a4fd7bea6950616484f5d25f21afa58657ff72a07ceb37c9bcb0ccf587a276"
 metafile = true
 
 [[files]]
-file = "mods/hexParse-neoforge-1.21.1-1.11.1-pre26.jar"
-hash = "67fa65f9d1feace7a798c19cdee17a22127437a1830f2899ba5c191991c8a144"
-
-[[files]]
 file = "mods/hexal-0.3.1-NEOFORGE-DEVEL-pre-12.jar"
 hash = "7d5c16c447504022ab0e0433235349fa33340d4196aa75ee250c87890e805c42"
 
 [[files]]
+file = "mods/hexautomata.pw.toml"
+hash = "4223c16e20493ca144ef62b5f5fef21adde681d24fa14510e43b5323ebafbc96"
+metafile = true
+
+[[files]]
 file = "mods/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-52.jar"
 hash = "7e1bec4a227701105b64c73173126502bfc812ac72ddf5df1869d91dfb31a1dc"
+
+[[files]]
+file = "mods/hexparse.pw.toml"
+hash = "b16fd78ab338e0bb64ee3c4f21e72743562db921ab96892021830ca90b85ed3e"
+metafile = true
 
 [[files]]
 file = "mods/hypertubes.pw.toml"
@@ -1282,6 +1316,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "fec42f4ea33169c1ea9c14f6b179325f974367eb7c7082dfffe9c483789a19f1"
+metafile = true
+
+[[files]]
+file = "mods/immersive-furniture.pw.toml"
+hash = "16130d1a72a1e4e77e870fd2c1641de43c3fa674458956a8e909bc68f080371f"
 metafile = true
 
 [[files]]
@@ -1443,8 +1482,9 @@ hash = "94e451110472bb47c50bfb8eba8758f2be2ba699b6ddcf4b140b8014a06facfd"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
-hash = "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
+file = "mods/owo-lib.pw.toml"
+hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
+metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
@@ -1459,6 +1499,11 @@ metafile = true
 [[files]]
 file = "mods/paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
 hash = "4be89c91385ffaecb5a0cc405d644dc7387c6f05705630b26df333a226ffae08"
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "b850686e2fcbc612e5d5436be35ac9c48f33b37ae92aa7f268cf409076323be0"
+metafile = true
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
@@ -1546,8 +1591,13 @@ hash = "d2df51eef79a8e7d414f96fba3c1fd1144f9feb44d631ffc8490bff69b5b1d6a"
 metafile = true
 
 [[files]]
+file = "mods/sable-ragdolls-cosmetic-armor-reworked-forked.pw.toml"
+hash = "98e28b2279857fe1f84b989130399e2d4d5d4fc2c69ede54b02cd59d02c37e21"
+metafile = true
+
+[[files]]
 file = "mods/sable-ragdolls.pw.toml"
-hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
+hash = "44988ea0309235eac8e49d360dfabb8fd9074592882316641e438cc281a4f747"
 metafile = true
 
 [[files]]
@@ -1693,6 +1743,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "a71c5d8a681bc8d891495e166a75de7715007ae8509b5bb45904763b0eae5224"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
 
 [[files]]

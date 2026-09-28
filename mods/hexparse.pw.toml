@@ -1,0 +1,13 @@
+name = "HexParse"
+filename = "hexParse-neoforge-1.21.1-1.11.1-pre26.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c0499439f1c5fc69bda45164a8272f7956bc739"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8457518
+project-id = 1148731

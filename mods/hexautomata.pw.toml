@@ -1,0 +1,13 @@
+name = "HexAutomata"
+filename = "HexAutomata-neoforge-1.21.1-0.3.5-pre48.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e367eac66b6dc6e2dfcc3f4c6e4f195e5170b71b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8715954
+project-id = 1481923
