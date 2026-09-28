@@ -796,6 +796,11 @@ hash = "9009bd5cdcdbc6bc47a7fbb203844d9a551accdd796877bdba5233ac14bbd513"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-x-cataclysm-spellbooks-compatibility.pw.toml"
+hash = "9ad7eb1595c5b0c11a083423af79531610ef44edcf977791e0d41114f74679c1"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
@@ -823,6 +828,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-spellbooks-bettercombat-compat.pw.toml"
+hash = "9c1c61ee105357bc6929bc63b26f30093445d57d3b1f4df6bc55f62f6d952331"
 metafile = true
 
 [[files]]
@@ -1178,11 +1188,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "42731772f3bde6bc35c48ff39a0b16c24edfa245c42d2ca8c8abd11f57edf4e7"
-metafile = true
-
-[[files]]
-file = "mods/envelope.pw.toml"
-hash = "f2996ea3e710a3847fb767c188a3f500e24cf4ecbf6b4634811d44daf544f467"
 metafile = true
 
 [[files]]
