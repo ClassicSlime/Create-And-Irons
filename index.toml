@@ -1156,11 +1156,6 @@ hash = "89eab7f9d24b2d49f191847fc35f347e71eb4d9006a2a0e1a8fb3ee3ba7bbf58"
 metafile = true
 
 [[files]]
-file = "mods/emf-compat-better-combat.pw.toml"
-hash = "af92e54ee4d988e174d458a3437ec633ca40e026103dd0c2d7eeaecf369c96a7"
-metafile = true
-
-[[files]]
 file = "mods/emf-compat-core.pw.toml"
 hash = "7e0b2cc2e3c0af0d00a6c868baa068e56e9eaf93dc59ef35781b720c4ce4a3e4"
 metafile = true
