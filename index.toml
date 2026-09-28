@@ -1596,14 +1596,13 @@ hash = "98e28b2279857fe1f84b989130399e2d4d5d4fc2c69ede54b02cd59d02c37e21"
 metafile = true
 
 [[files]]
-file = "mods/sable-ragdolls.pw.toml"
-hash = "3f7cd8a8a8795759b4a4a36d479c885f98260cd9838e8d4ab12479961ddd9fe1"
-metafile = true
-
-[[files]]
 file = "mods/sable.pw.toml"
 hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
+
+[[files]]
+file = "mods/sable_player_ragdoll-1.21.1-0.7.5.jar"
+hash = "69611deff1c2b18ae0ae7dbaea24cc14f4b69f0368297653933ae9b33adf2d2b"
 
 [[files]]
 file = "mods/selene.pw.toml"
