@@ -811,11 +811,6 @@ hash = "f730db5fd5537bfd183264182e76d4e3c33ce8ad79602920f3ada74e96de3e38"
 metafile = true
 
 [[files]]
-file = "mods/better-stats.pw.toml"
-hash = "7af283ca94e8d0d24a7c5b5fd43c0b5c4bc4300c00754ae40dfb0b5d44ea6a17"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
@@ -963,11 +958,6 @@ metafile = true
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
 hash = "5ddab0e915885b59d2dc2dc1dc0b232c3e70ea9bbe30dc76c47b217808306607"
-metafile = true
-
-[[files]]
-file = "mods/create-better-fps.pw.toml"
-hash = "ec24850fc5b483889ac43bca926720fe80d8779aa69ec8db5e70c5a6bc57909f"
 metafile = true
 
 [[files]]
@@ -1314,11 +1304,6 @@ hash = "f7a2068496599ff123dc33f4b65685c9bdf984bb03fd043a9af7e1c6660af71a"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "fec42f4ea33169c1ea9c14f6b179325f974367eb7c7082dfffe9c483789a19f1"
-metafile = true
-
-[[files]]
 file = "mods/immersive-furniture.pw.toml"
 hash = "16130d1a72a1e4e77e870fd2c1641de43c3fa674458956a8e909bc68f080371f"
 metafile = true
@@ -1445,11 +1430,6 @@ metafile = true
 [[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "57e6050e4ac9100cb4f6028a84ac9e7f09d6dd8c76813276cae6b255b710238b"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "39b9809482c418152a8fbf57e6eeb319c1b9d1b9bb8655d2518069cd58562daf"
 metafile = true
 
 [[files]]
@@ -1702,11 +1682,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "24d2d04bd35de31d5f3a19579b4ee1596cab14e8a171bea5de7594a63a6bb9cd"
-metafile = true
-
-[[files]]
-file = "mods/tcdcommons.pw.toml"
-hash = "cf2c07cb7d1637541d163948891a9b3df2aabf6d562e963ee33a99fbb9871e4d"
 metafile = true
 
 [[files]]
